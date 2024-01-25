@@ -2,7 +2,8 @@
 	<PropertyGroup>
 		<AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
 		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
-		<AssemblyName></AssemblyName>
+		<AssemblyName>Notepad</AssemblyName>
+		<ApplicationIcon>notepad.ico</ApplicationIcon>
 		<GenerateAssemblyInfo>True</GenerateAssemblyInfo>
 		<OutputType>WinExe</OutputType>
 		<TargetFramework>netcoreapp7.0-windows</TargetFramework>
