@@ -1,0 +1,436 @@
+{
+  "DrawInTown": true,
+  "DrawInHideout": true,
+  "DrawWhenGameInBackground": false,
+  "CullingStrikeRange": 10,
+  "InterpolatePosition": false,
+  "Monster": {
+    "white": {
+      "Enable": true,
+      "ShowCullStrike": true,
+      "ShowText": false,
+      "BackgroundColor": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "HealthbarColor": {
+        "X": 0.5,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "ESColor": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "TextColor": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "Scale": {
+        "X": 160.0,
+        "Y": 16.0
+      },
+      "Shift": {
+        "X": 0.0,
+        "Y": 11.0
+      },
+      "HalfOfScale": {
+        "X": 80.0,
+        "Y": 8.0
+      },
+      "Graduations": 0,
+      "GraduationsLocationStart": 160.0,
+      "GraduationsLocationEnd": {
+        "X": 0.0,
+        "Y": 16.0
+      }
+    },
+    "magic": {
+      "Enable": true,
+      "ShowCullStrike": true,
+      "ShowText": false,
+      "BackgroundColor": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "HealthbarColor": {
+        "X": 0.0,
+        "Y": 0.5,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "ESColor": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "TextColor": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "Scale": {
+        "X": 160.0,
+        "Y": 16.0
+      },
+      "Shift": {
+        "X": 0.0,
+        "Y": 11.0
+      },
+      "HalfOfScale": {
+        "X": 80.0,
+        "Y": 8.0
+      },
+      "Graduations": 0,
+      "GraduationsLocationStart": 160.0,
+      "GraduationsLocationEnd": {
+        "X": 0.0,
+        "Y": 16.0
+      }
+    },
+    "rare": {
+      "Enable": true,
+      "ShowCullStrike": true,
+      "ShowText": true,
+      "BackgroundColor": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "HealthbarColor": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "ESColor": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "TextColor": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "Scale": {
+        "X": 160.0,
+        "Y": 16.0
+      },
+      "Shift": {
+        "X": 0.0,
+        "Y": 11.0
+      },
+      "HalfOfScale": {
+        "X": 80.0,
+        "Y": 8.0
+      },
+      "Graduations": 9,
+      "GraduationsLocationStart": 16.0,
+      "GraduationsLocationEnd": {
+        "X": 0.0,
+        "Y": 16.0
+      }
+    },
+    "unique": {
+      "Enable": true,
+      "ShowCullStrike": true,
+      "ShowText": true,
+      "BackgroundColor": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "HealthbarColor": {
+        "X": 1.0,
+        "Y": 0.5,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "ESColor": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "TextColor": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "Scale": {
+        "X": 160.0,
+        "Y": 16.0
+      },
+      "Shift": {
+        "X": 0.0,
+        "Y": 11.0
+      },
+      "HalfOfScale": {
+        "X": 80.0,
+        "Y": 8.0
+      },
+      "Graduations": 9,
+      "GraduationsLocationStart": 16.0,
+      "GraduationsLocationEnd": {
+        "X": 0.0,
+        "Y": 16.0
+      }
+    },
+    "friendly": {
+      "Enable": true,
+      "ShowCullStrike": true,
+      "ShowText": false,
+      "BackgroundColor": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "HealthbarColor": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "ESColor": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "TextColor": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "Scale": {
+        "X": 160.0,
+        "Y": 16.0
+      },
+      "Shift": {
+        "X": 0.0,
+        "Y": 11.0
+      },
+      "HalfOfScale": {
+        "X": 80.0,
+        "Y": 8.0
+      },
+      "Graduations": 0,
+      "GraduationsLocationStart": 160.0,
+      "GraduationsLocationEnd": {
+        "X": 0.0,
+        "Y": 16.0
+      }
+    }
+  },
+  "POIMonster": {
+    "-1": {
+      "Enable": true,
+      "ShowCullStrike": true,
+      "ShowText": true,
+      "BackgroundColor": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "HealthbarColor": {
+        "X": 0.5,
+        "Y": 0.5,
+        "Z": 0.5,
+        "W": 0.5
+      },
+      "ESColor": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "TextColor": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "Scale": {
+        "X": 160.0,
+        "Y": 16.0
+      },
+      "Shift": {
+        "X": 0.0,
+        "Y": 11.0
+      },
+      "HalfOfScale": {
+        "X": 80.0,
+        "Y": 8.0
+      },
+      "Graduations": 9,
+      "GraduationsLocationStart": 16.0,
+      "GraduationsLocationEnd": {
+        "X": 0.0,
+        "Y": 16.0
+      }
+    }
+  },
+  "Player": {
+    "self": {
+      "Enable": true,
+      "ShowCullStrike": true,
+      "ShowText": false,
+      "BackgroundColor": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "HealthbarColor": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "ESColor": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "TextColor": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "Scale": {
+        "X": 160.0,
+        "Y": 16.0
+      },
+      "Shift": {
+        "X": 0.0,
+        "Y": 11.0
+      },
+      "HalfOfScale": {
+        "X": 80.0,
+        "Y": 8.0
+      },
+      "Graduations": 0,
+      "GraduationsLocationStart": 160.0,
+      "GraduationsLocationEnd": {
+        "X": 0.0,
+        "Y": 16.0
+      }
+    },
+    "leader": {
+      "Enable": true,
+      "ShowCullStrike": true,
+      "ShowText": false,
+      "BackgroundColor": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "HealthbarColor": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "ESColor": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "TextColor": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "Scale": {
+        "X": 160.0,
+        "Y": 16.0
+      },
+      "Shift": {
+        "X": 0.0,
+        "Y": 11.0
+      },
+      "HalfOfScale": {
+        "X": 80.0,
+        "Y": 8.0
+      },
+      "Graduations": 0,
+      "GraduationsLocationStart": 160.0,
+      "GraduationsLocationEnd": {
+        "X": 0.0,
+        "Y": 16.0
+      }
+    },
+    "member": {
+      "Enable": true,
+      "ShowCullStrike": true,
+      "ShowText": false,
+      "BackgroundColor": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "HealthbarColor": {
+        "X": 0.5,
+        "Y": 1.0,
+        "Z": 0.5,
+        "W": 1.0
+      },
+      "ESColor": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "TextColor": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "Scale": {
+        "X": 160.0,
+        "Y": 16.0
+      },
+      "Shift": {
+        "X": 0.0,
+        "Y": 11.0
+      },
+      "HalfOfScale": {
+        "X": 80.0,
+        "Y": 8.0
+      },
+      "Graduations": 0,
+      "GraduationsLocationStart": 160.0,
+      "GraduationsLocationEnd": {
+        "X": 0.0,
+        "Y": 16.0
+      }
+    }
+  }
+}

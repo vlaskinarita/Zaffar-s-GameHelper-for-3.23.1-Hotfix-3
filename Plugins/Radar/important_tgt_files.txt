@@ -1,0 +1,1304 @@
+{
+  "1_1_1": {
+    "Metadata/Terrain/Beach/Transitions/beachtown_south_entrance_test.tdtx:1-y:5": "Lioneye's Watch"
+  },
+  "1_1_2": {
+    "Metadata/Terrain/Beach/Transitions/beachtown_north_entrance_v2.tdtx:5-y:1": "Lioneye's Watch",
+    "Metadata/Terrain/Beach/Features/beach_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Beach/Transitions/BeachToSwamp/act1_area2_transition_v01_01.tdtx:3-y:1": "The Mud Flats",
+    "Metadata/Terrain/Beach/Transitions/TidalIsland/act1_karui_coast_to_island_transition_v01_01.tdtx:9-y:3": "The Tidal Island"
+  },
+  "1_1_2a": {
+    "Metadata/Terrain/Beach/Special/kyrenia_boat_medicinequest_v01_01.tdtx:2-y:2": "Quest: QuickSilverFlask",
+    "Metadata/Terrain/Beach/Transitions/TidalIsland/act1_karui_island_to_coast_transition_v01_01.tdtx:9-y:3": "The Coast"
+  },
+  "1_1_3": {
+    "Metadata/Terrain/Beach/Features/rhoanest_v01_01.tdtx:1-y:1": "Quest: Main",
+    "Metadata/Terrain/Beach/Transitions/BeachToSwamp/act1_area2_transition_v01_01_reverse.tdtx:4-y:1": "The Coast",
+    "Metadata/Terrain/Beach/Transitions/BeachToSwamp/act1_beach_toswamp_fetid_v01_01_reverse.tdtx:4-y:3": "The Fetid Pool",
+    "Metadata/Terrain/Beach/Transitions/BeachToWatercave_v2/Beach_to_watercave_v2.tdtx:3-y:7": "The Submerged Passage"
+  },
+  "1_1_3a": {
+    "Metadata/Terrain/Beach/Transitions/BeachToSwamp/act1_beach_toswamp_fetid_v01_01.tdtx:5-y:4": "The Mud Flats"
+  },
+  "1_1_4_1": {
+    "Metadata/Terrain/Cave/Features/cave_exit_v01_01.tdtx:1-y:0": "The Mud Flats",
+    "Metadata/Terrain/Beach/Features/beach_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Cave/Features/watery_depth_entrance_v01_01.tdtx:1-y:1": "The Flooded Depths",
+    "Metadata/Terrain/Cave/Features/caveup_exit_v01_01.tdtx:1-y:1": "The Ledge"
+  },
+  "1_1_5": {
+    "Metadata/Terrain/Beach/Transitions/beachcaveentrance_v01_01.tdtx:1-y:2": "The Submerged Passage",
+    "Metadata/Terrain/Beach/Features/beach_ledge_waypoint_v01_01.tdtx:1-y:3": "Waypoint",
+    "Metadata/Terrain/Beach/Transitions/beach_passageway_v01_01.tdtx:3-y:3": "The Climb"
+  },
+  "1_1_4_0": {
+    "Metadata/Terrain/Cave/Features/caveup_exit_v01_01.tdtx:1-y:0": "The Submerged Passage",
+    "Metadata/Terrain/Cave/River/cave_river_concave_to_wall_v01_01.tdtx:0-y:0": "Boss"
+  },
+  "1_1_6": {
+    "Metadata/Terrain/Beach/Transitions/beach_passageway_v01_01.tdtx:4-y:3": "The Ledge",
+    "Metadata/Terrain/Beach/Features/beach_waypoint_v02_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Beach/Special/beach_prisonback.tdtx:9-y:10": "The Lower Prison"
+  },
+  "1_1_7_1": {
+    "Metadata/Terrain/Prison/Features/prison_wall_straight_hole_v01_01.tdtx:0-y:0": "The Climb",
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:0-y:1": "The Upper Prison",
+    "Metadata/Terrain/Prison/Features/prison_trial_door_v01_01.tdtx:1-y:0": "Trial of Ascendency",
+    "Metadata/Terrain/Prison/Features/prison_waypoint_v01_01.tdtx:0-y:0": "Waypoint"
+  },
+  "1_1_7_2": {
+    "Metadata/Terrain/Prison/Features/prison_entrance_down_v01_01.tdtx:0-y:0": "The Lower Prison",
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:0-y:1": "The Warden's Quarters",
+    "Metadata/Terrain/Prison/Features/prison_boss_exit_v01_02.tdtx:0-y:1": "The Warden's Chambers",
+    "Metadata/Terrain/Prison/Features/prison_boss_exit_v01_01.tdtx:0-y:1": "The Warden's Quarters",
+    "Metadata/Terrain/Prison/Features/prison_door_up_v01_01.tdtx:0-y:1": "Prisoner's Gate"
+  },
+  "1_1_8": {
+    "Metadata/Terrain/Beach/Features/beach_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Beach/Transitions/ShipgraveyardPassageway/shipgraveyard_passageway_v01_01a.tdtx:3-y:3": "The Ship Graveyard",
+    "Metadata/Terrain/Beach/Transitions/beach_passageblock_v01_01.tdtx:3-y:4": "Blocked Path / The Western Forest"
+  },
+  "1_1_9": {
+    "Metadata/Terrain/Beach/Transitions/ShipgraveyardPassageway/shipgraveyard_passageway_v01_01b.tdtx:3-y:2": "Prisoner's Gate",
+    "Metadata/Terrain/Beach/Features/beach_shipgraveyard_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Beach/Quest Locations/shipwreck_quest_v01_01.tdtx:8-y:7": "Fairgraves",
+    "Metadata/Terrain/Beach/Transitions/ship_entrance_v01_01.tdtx:1-y:4": "The Ship Graveyard Cave",
+    "Metadata/Terrain/Beach/Transitions/beach_caveentranceskeleton_v01_01.tdtx:5-y:6": "The Cavern of Wrath",
+    "Metadata/Terrain/Beach/Transitions/beach_caveentranceskeleton_v01_02.tdtx:4-y:2": "The Cavern of Wrath"
+  },
+  "1_1_9a": {
+    "Metadata/Terrain/Beach/Features/Ships/boat_small_damaged_allflame_v01_01.tdtx:0-y:0": "Quest: Slave Girl"
+  },
+  "1_1_11_1": {
+    "Metadata/Terrain/Cave/Features/caveskeleton_exit_v01_01.tdtx:3-y:3": "The Ship Graveyard",
+    "Metadata/Terrain/Beach/Features/beach_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Cave/Features/caveup_exit_v01_01.tdtx:1-y:0": "The Cavern of Anger"
+  },
+  "1_1_11_2": {
+    "Metadata/Terrain/Cave/Features/cavedown_exit_v01_01.tdtx:1-y:0": "The Cavern of Wrath",
+    "Metadata/Terrain/Cave/Features/caveup_exit_v01_01.tdtx:1-y:0": "Merveil's Lair",
+    "Metadata/Terrain/Cave/Features/cavedown_boss_exit_v01_01.tdtx:0-y:0": "The Cavern of Anger",
+    "Metadata/Terrain/Beach/Transitions/MerveilExit/merveil_exit_clean_v01_01.tdtx:1-y:1": "The Southern Forest"
+  },
+  "1_2_1": {
+    "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Forest/Transitions/forestcamp_dock_v01_01.tdtx:1-y:3": "The Forest Encampment"
+  },
+  "1_2_2": {
+    "Metadata/Terrain/Forest/Transitions/forestcamp_right_v01_01.tdtx:3-y:4": "The Forest Encampment",
+    "Metadata/Terrain/Forest/Transitions/road_wall_gate_v01_01.tdtx:1-y:1": "The Crossroads",
+    "Metadata/Terrain/ForestCave/Features/forestcave_entrance_hole_v01_01.tdtx:0-y:0": "The Den"
+  },
+  "1_2_3": {
+    "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Forest/Transitions/road_wall_gate_v01_01_reverse.tdtx:1-y:1": "Area Transition",
+    "Metadata/Terrain/Forest/Transitions/bridgeconnection_v01_01.tdtx:0-y:1": "The Broken Bridge",
+    "Metadata/Terrain/Forest/Transitions/temple_entrance_v01_01.tdtx:1-y:1": "The Chamber Of Sins level 1"
+  },
+  "1_2_15": {
+    "Metadata/Terrain/Forest/Transitions/road_wall_gate_v01_01.tdtx:1-y:1": "The Crossroads",
+    "Metadata/Terrain/Forest/Transitions/church_dungeon_entrance_v01_01.tdtx:0-y:0": "The Crypt Level 1"
+  },
+  "1_2_5_1": {
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:0-y:1": "The Fellshrine Ruins",
+    "Metadata/Terrain/Church/Features/church_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Church/Features/church_exit_down_v01_01.tdtx:0-y:0": "The Crypt Level 2",
+    "Metadata/Terrain/Church/Features/labyrinth_catacombs_door_v01_01.tdtx:1-y:0": "Trial of Ascendency"
+  },
+  "1_2_5_2": {
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:0-y:0": "The Crypt Level 1",
+    "Metadata/Terrain/Church/Features/church_relic_altar_v01_01.tdtx:1-y:1": "Quest: Golden Hand"
+  },
+  "1_2_2a": {
+    "Metadata/Terrain/ForestCave/Features/forestcave_exit_up_v01_01.tdtx:1-y:1": "The Old Fields"
+  },
+  "1_2_4": {
+    "Metadata/Terrain/Forest/Transitions/bridgeconnection_v01_01.tdtx:0-y:1": "The Crossroads",
+    "Metadata/Terrain/Forest/Special/bridge_large_v01_01.tdtx:3-y:14": "Quest: Kraityn",
+    "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint"
+  },
+  "1_2_6_1": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_entrance_v01_01.tdtx:0-y:0": "The Crossroads",
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_down_v01_01.tdtx:2-y:2": "The Chamber Of Sins Level 2"
+  },
+  "1_2_6_2": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_up_v01_01.tdtx:0-y:0": "The Chamber of Sins Level 1",
+    "Metadata/Terrain/RuinedTempleForest/Walls/templeruinforest_labyrinth_door_thin_corridor_v01_03.tdtx:1-y:0": "Trial Of Ascendancy",
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_questcart.tdtx:0-y:0": "Quest: Strange Device"
+  },
+  "1_2_7": {
+    "Metadata/Terrain/Forest/Transitions/forestcamp_left_v01_01.tdtx:6-y:3": "The Forest Encampment",
+    "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Forest/Transitions/bridgeconnection_v01_01.tdtx:0-y:2": "The Wetlands",
+    "Metadata/Terrain/Forest/Transitions/roadtothickforest_entrance_v01_01.tdtx:4-y:1": "The Western Forest"
+  },
+  "1_2_9": {
+    "Metadata/Terrain/Forest/Transitions/roadtothickforest_entrance_v01_01.tdtx:0-y:1": "The Riverways",
+    "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Forest/Features/BanditCamp/treewitch_camp_v01_02.tdtx:0-y:4": "Quest: Alira",
+    "Metadata/Terrain/Forest/Transitions/forest_mountainpass_v01_01.tdtx:13-y:3": "Quest",
+    "Metadata/Terrain/Forest/Transitions/forest_mountainpass_v01_01.tdtx:3-y:3": "Prisoner's Gate",
+    "Metadata/Terrain/Forest/Transitions/spidergrove_entrance_v01_01.tdtx:3-y:1": "The Weaver's Chambers"
+  },
+  "1_2_10": {
+    "Metadata/Terrain/SpiderGrove/Features/spidergrove_exit_lit_v01_01.tdtx:0-y:1": "The Western Forest",
+    "Metadata/Terrain/SpiderGrove/Features/spidergrove_exit_v01_01.tdtx:0-y:1": "Area Transition"
+  },
+  "1_2_12": {
+    "Metadata/Terrain/Forest/Transitions/bridgeconnection_v01_01.tdtx:0-y:1": "The Riverways",
+    "Metadata/Terrain/Forest/Features/Tents/forest_tent_v04_01.tdtx:1-y:0": "Quest: Qak",
+    "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Forest/Transitions/forest_caveentrance_inca_v01_02.tdtx:2-y:1": "The Vaal Ruins"
+  },
+  "1_2_11": {
+    "Metadata/Terrain/Dungeon/Features/dungeon_inca_exit_v01_01.tdtx:0-y:1": "Area Transition",
+    "Metadata/Terrain/Dungeon/Features/dungeon_bossrelease_v01_01.tdtx:1-y:0": "Quest: Ancient Seal"
+  },
+  "1_2_8": {
+    "Metadata/Terrain/Forest/Transitions/forest_caveexit_inca_v01_01.tdtx:2-y:0": "The Vaal Ruins",
+    "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Forest/Transitions/grovewall_entrance_v01_01.tdtx:0-y:1": "The Dread Thicket",
+    "Metadata/Terrain/Forest/Transitions/waterfall_cave_entrance_v01_01.tdtx:2-y:3": "The Caverns"
+  },
+  "1_2_13": {
+    "Metadata/Terrain/Grove/Features/grove_wall_exit_v01_01.tdtx:0-y:1": "Area Transition",
+    "Metadata/Terrain/ForestCave/Features/forestcave_entrance_hole_v01_01.tdtx:0-y:0": "Lush Hideout"
+  },
+  "1_2_14_2": {
+    "Metadata/Terrain/ForestCave/Features/forestcave_exit_down_v01_01.tdtx:1-y:0": "The Northern Forest",
+    "Metadata/Terrain/Dungeon/Features/waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Dungeon/Stairs/dungeon_stairs_up_v01_01.tdtx:1-y:1": "The Ancient Pyramid",
+    "Metadata/Terrain/Dungeon/Features/dungeon_inca_exit_v02_01.tdtx:0-y:1": "Vaal Side Zone"
+  },
+  "1_2_14_3": {
+    "Metadata/Terrain/Dungeon/Stairs/dungeon_stairs_down_v01_01.tdtx:1-y:1": "Donwstairs",
+    "Metadata/Terrain/Dungeon/Stairs/dungeon_stairs_up_v01_01.tdtx:1-y:1": "Upstairs",
+    "Metadata/Terrain/Dungeon/Features/dungeon_inca_exit_boss_v01_01.tdtx:0-y:1": "The Ancient Pyramid",
+    "Metadata/Terrain/Dungeon/Features/dungeon_huangdoor_v01_01.tdtx:2-y:1": "The City Of Sarn"
+  },
+  "1_3_1": {
+    "Metadata/Terrain/RuinedCity/Features/citywaypoint_v01_01.tdtx:1-y:0": "Waypoint",
+    "Metadata/Terrain/RuinedCity/AreaTransitions/act3_docks_to_town_lower_01_01.tdtx:3-y:3": "The Sarn Encampment"
+  },
+  "Labyrinth_Airlock": {
+    "Metadata/Terrain/RuinedCity/Labyrinth/entrance_v01_01.tdtx:4-y:1": "Labyrinth Entrance",
+    "Metadata/Terrain/RuinedCity/Features/citywaypoint_v02_01.tdtx:0-y:0": "Waypoint"
+  },
+  "1_3_2": {
+    "Metadata/Terrain/RuinedCity/AreaTransitions/act3_to_slums_area_transition.tdtx:5-y:3": "The Sarn Encampment",
+    "Metadata/Terrain/RuinedCity/AreaTransitions/slum_sewer_entrance_v02_01.tdtx:0-y:0": "The Sewers",
+    "Metadata/Terrain/RuinedCity/AreaTransitions/act3_prison_entrance_01_01.tdtx:2-y:1": "The Crematorium"
+  },
+  "1_3_3_1": {
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:1-y:1": "The Slums",
+    "Metadata/Terrain/Prison/Features/prison_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Prison/Features/prison_trial_door_v01_01.tdtx:1-y:0": "Trial of Ascendancy",
+    "Metadata/Terrain/quest_marker.tdtx:0-y:0": "Quest: Tolman"
+  },
+  "1_3_10_1": {
+    "Metadata/Terrain/RuinedCity/Sewers/Features/sewerwall_end_tunnel_v01_03.tdtx:1-y:1": "The Slums",
+    "Metadata/Terrain/RuinedCity/Features/citywaypoint_v02_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/RuinedCity/Sewers/Features/sewerwall_end_tunnel_v01_04.tdtx:1-y:1": "The Slums",
+    "Metadata/Terrain/RuinedCity/Sewers/Features/sewers_victariostash_v01_01.tdtx:0-y:0": "Quest: Stash",
+    "Metadata/Terrain/RuinedCity/Sewers/Features/sewerwall_entrance_v01_01.tdtx:0-y:0": "Undercity Hideout",
+    "Metadata/Terrain/RuinedCity/Sewers/Features/sewerwall_exit_v01_01.tdtx:0-y:0": "The Marketplace",
+    "Metadata/Terrain/RuinedCity/Sewers/Features/sewerexit_v01_01.tdtx:2-y:2": "The Ebony Barracks"
+  },
+  "1_3_5": {
+    "Metadata/Terrain/RuinedCity/AreaTransitions/slum_sewer_entrance_v02_01.tdtx:0-y:0": "The Sewers",
+    "Metadata/Terrain/RuinedCity/Features/citywaypoint_v02_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/RuinedCity/AreaTransitions/markettochurchdungeon_v01_01.tdtx:3-y:4": "The Catacombs",
+    "Metadata/Terrain/RuinedCity/MarketPlace/market_place_straight_v01_01_unique1.tdtx:1-y:2": "Quest: Decanter Spiritus",
+    "Metadata/Terrain/RuinedCity/AreaTransitions/market_to_battlefront_v01_01.tdtx:4-y:3": "The Battlefront"
+  },
+  "1_3_6": {
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:0-y:1": "The Marketplace",
+    "Metadata/Terrain/Church/Features/labyrinth_catacombs_door_v01_01.tdtx:1-y:0": "Trial Of Ascendancy"
+  },
+  "1_3_7": {
+    "Metadata/Terrain/RuinedCity/AreaTransitions/market_to_battlefront_v01_02.tdtx:4-y:3": "The Marketplace",
+    "Metadata/Terrain/RuinedCity/Features/citywaypoint_v01_01.tdtx:0-y:1": "Waypoint",
+    "Metadata/Terrain/RuinedCity/Special/Bridge/act3_brokenbridge_v01_01.tdtx:14-y:6": "Quest: Ribbon Spool",
+    "Metadata/Terrain/RuinedCity/LargeWall/battlefield_arch_v01_03.tdtx:1-y:2": "The Docks",
+    "Metadata/Terrain/RuinedCity/AreaTransitions/act3_temple_entrance_v01_01.tdtx:3-y:4": "The Solaris Temple Level 1"
+  },
+  "1_3_9": {
+    "Metadata/Terrain/RuinedCity/LargeWallDocks/docks_wall_arch_v01_01.tdtx:2-y:3": "The Battlefront",
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_questcart.tdtx:0-y:0": "Quest: Thaumetic Sulphite",
+    "Metadata/Terrain/RuinedCity/Features/citywaypoint_v01_01.tdtx:1-y:1": "Waypoint & Quest"
+  },
+  "1_3_8_1": {
+    "Metadata/Terrain/Temple/Features/temple_to_battlefront_v01_01.tdtx:2-y:0": "The Battlefront",
+    "Metadata/Terrain/Temple/Features/templeclean_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Temple/Features/templeclean_exit_down_v01_01.tdtx:1-y:2": "The Solaris Temple Level 2"
+  },
+  "1_3_8_2": {
+    "Metadata/Terrain/Temple/Features/templeclean_exit_up_v01_02.tdtx:0-y:2": "The Solaris Temple Level 1",
+    "Metadata/Terrain/Temple/Features/templeclean_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Temple/Features/gemling_queen_throne_v01_01.tdtx:1-y:2": "Quest: Infernal Talc",
+    "Metadata/Terrain/Temple/Features/templeclean_map_transition_v01_01.tdtx:1-y:2": "Area Transition"
+  },
+  "1_3_13": {
+    "Metadata/Terrain/RuinedCity/AreaTransitions/battlefield_to_sewer_stairs_v01_01.tdtx:2-y:1": "The Sewers",
+    "Metadata/Terrain/RuinedCity/Features/citywaypoint_v01_02.tdtx:1-y:1": "Waypoint",
+    "Metadata/Terrain/RuinedCity/LargeWallGardens/garden_arch_v01_01.tdtx:1-y:1": "The Imperial Gardens",
+    "Metadata/Terrain/RuinedCity/AreaTransitions/act3_temple_entrance_v01_01.tdtx:3-y:5": "The Lunaris Temple Level 1",
+    "Metadata/Terrain/RuinedCity/Features/Tents/tent_large_v01_01.tdtx:3-y:0": "Area Boss"
+  },
+  "1_3_14_1": {
+    "Metadata/Terrain/Temple/Features/temple_to_battlefront_v01_01.tdtx:2-y:0": "The Ebony Barracks",
+    "Metadata/Terrain/Temple/Features/templeclean_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Temple/Features/templeclean_exit_down_v01_01.tdtx:1-y:2": "The Lunaris Temple Level 2"
+  },
+  "1_3_14_2": {
+    "Metadata/Terrain/Temple/Features/templeclean_exit_up_v01_02.tdtx:0-y:2": "The Lunaris Temple Level 1",
+    "Metadata/Terrain/Temple/Features/temple_piety_fight_v06_01.tdtx:1-y:1": "Portal",
+    "Metadata/Terrain/Temple/Features/templeclean_prepiety_roundtop_center_01.tdtx:0-y:2": "Portal"
+  },
+  "1_3_15": {
+    "Metadata/Terrain/RuinedCity/LargeWallGardens/garden_arch_v01_01.tdtx:2-y:1": "The Ebony Barracks",
+    "Metadata/Terrain/RuinedCity/Features/citywaypoint_v02_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/RuinedCity/Garden/Features/fruittree.tdtx:1-y:1": "Quest: Chitus Plum",
+    "Metadata/Terrain/RuinedCity/GardenThinWall/garden_labyrinth_gate_v02_02.tdtx:0-y:1": "Trial Of Ascendancy",
+    "Metadata/Terrain/RuinedCity/LibraryLargeWall/Library_LargeBuilding_entrance_v01_01.tdtx:2-y:1": "The Library",
+    "Metadata/Terrain/RuinedCity/AreaTransitions/Act3_EpicDoor_v02_01.tdtx:8-y:8": "The Sceptre Of God"
+  },
+  "1_3_18_1": {
+    "Metadata/Terrain/RuinedCity/Sceptre/Features/tower_epic_entrance_v01_01.tdtx:5-y:3": "The Imperial Gardens",
+    "Metadata/Terrain/RuinedCity/Sceptre/Features/tower_waypoint_01_01.tdtx:1-y:1": "Waypoint",
+    "Metadata/Terrain/RuinedCity/Sceptre/Features/tower_transition_down_01_01.tdtx:1-y:1": "Stairs Down",
+    "Metadata/Terrain/RuinedCity/Sceptre/Features/tower_transition_up_01_01.tdtx:1-y:1": "Stairs Up"
+  },
+  "1_3_18_2": {
+    "Metadata/Terrain/RuinedCity/Sceptre/Features/tower_transition_down_01_01.tdtx:1-y:1": "Stairs Down",
+    "Metadata/Terrain/RuinedCity/Sceptre/Features/tower_transition_up_01_01.tdtx:1-y:1": "Stairs Up",
+    "Metadata/Terrain/RuinedCity/Sceptre/Features/tower_totowertop_v01_01.tdtx:1-y:1": "Tower Rooftop",
+    "Metadata/Terrain/RuinedCity/Special/Tower/Act3_tower_01_01.tdtx:3-y:2": "The Upper Sceptre Of God",
+    "Metadata/Terrain/RuinedCity/Special/Tower/Act3_tower_01_01.tdtx:11-y:5": "The Aqueduct"
+  },
+  "1_4_1": {
+    "Metadata/Terrain/Mountain/Aqueduct/Features/aqueduct_arch_entrance_v01_01.tdtx:0-y:5": "Waypoint",
+    "Metadata/Terrain/Mountain/Aqueduct/Features/aqueduct_waterwheel_v01_01.tdtx:4-y:10": "Area Boss",
+    "Metadata/Terrain/Mountain/Aqueduct/Features/Town/mountiantown_connection.tdtx:5-y:8": "Highgate"
+  },
+  "1_3_17_1": {
+    "Metadata/Terrain/RuinedCity/Library/Features/library_entrance_v01_01.tdtx:1-y:0": "The Imperial Gardens",
+    "Metadata/Terrain/RuinedCity/Library/Features/library_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/RuinedCity/Library/Features/library_entrance_v02_01.tdtx:1-y:0": "The Archives"
+  },
+  "1_3_17_2": {
+    "Metadata/Terrain/RuinedCity/Library/Features/library_entrance_v03_01.tdtx:1-y:0": "The Library",
+    "Metadata/Terrain/RuinedCity/Library/Features/library_floor_v03_01.tdtx:1-y:1": "Quest: Book Stand"
+  },
+  "1_4_2": {
+    "Metadata/Terrain/Mountain/DriedLake/Features/lake_entrance_v01_01.tdtx:4-y:2": "Highgate"
+  },
+  "1_4_3_1": {
+    "Metadata/Terrain/Mountain/Mines/Features/mine_areatransition_entrance_v01_01.tdtx:1-y:0": "Highgate",
+    "Metadata/Terrain/Mountain/Mines/Features/mine_areatransition_v01_01.tdtx:1-y:0": "The Mines Level 2",
+    "Metadata/Terrain/Mountain/Mines/Features/mine_areatransition_v01_02.tdtx:0-y:0": "The Mines Level 2"
+  },
+  "1_4_3_2": {
+    "Metadata/Terrain/Mountain/Mines/Features/mine_areatransition_v02_02.tdtx:1-y:0": "The Mines Level 1",
+    "Metadata/Terrain/Mountain/Mines/Features/mine_areatransition_v03_01.tdtx:0-y:0": "The Crystal Veins",
+    "Metadata/Terrain/Mountain/Mines/Abyss/mine_abyss_wall_v02_01.tdtx:0-y:0": "Skillpoint quest in this area"
+  },
+  "1_4_3_3": {
+    "Metadata/Terrain/Mountain/Mines/Features/mine_areatransition_v04_01.tdtx:1-y:0": "Area Transition",
+    "Metadata/Terrain/Mountain/Mines/Features/mine_areatransition_v03_01.tdtx:1-y:1": "Hideout",
+    "Metadata/Terrain/Mountain/Special/mountainwaypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Mountain/Mines/Features/mine_beastwall_v01_01.tdtx:4-y:1": "Daresso's Dream",
+    "Metadata/Terrain/Mountain/Mines/Features/mine_beastwall_v01_01.tdtx:0-y:1": "Koam's Dream"
+  },
+  "1_4_5_1": {
+    "Metadata/Terrain/Mountain/Arena/Pit/Features/arena_cagetransition_v01_01.tdtx:0-y:0": "Arena Cage",
+    "Metadata/Terrain/Mountain/Arena/Pit/Features/arena_areatransition_v01_01.tdtx:0-y:0": "The Grand Arena"
+  },
+  "1_4_5_2": {
+    "Metadata/Terrain/Mountain/Arena/Colosseum/Feature/colosseum_areatransition_v01_01.tdtx:1-y:1": "Daresso's Dream",
+    "Metadata/Terrain/Mountain/Special/mountainwaypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Mountain/Arena/Colosseum/Feature/colosseum_entrance_v01_01.tdtx:1-y:0": "Area Transition",
+    "Metadata/Terrain/Mountain/Arena/Colosseum/Feature/colosseum_trap_door_v01_01.tdtx:1-y:1": "Area Transition (Back)",
+    "Metadata/Terrain/Mountain/Arena/Colosseum/Feature/colosseum_wall_door_v01_02.tdtx:1-y:0": "Area Transition (Next)",
+    "Metadata/Terrain/Mountain/Arena/Colosseum/Feature/colosseum_entrance_v01_02.tdtx:1-y:0": "The Ring Of Blades",
+    "Metadata/Terrain/Mountain/Arena/Colosseum/Feature/daressotier3_wall_door_v01_01.tdtx:1-y:2": "Area Transition (Back)"
+  },
+  "1_4_4_1": {
+    "Metadata/Terrain/Mountain/Plateau/Features/lava_abyss_transition_entrance_v01_01.tdtx:0-y:0": "Kaom's Stronghold"
+  },
+  "1_4_4_3": {
+    "Metadata/Terrain/Mountain/Plateau/Features/lava_kaom3_transition_entrance_v02_01.tdtx:1-y:2": "Kaom's Dream",
+    "Metadata/Terrain/Beach/Features/beach_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Mountain/Plateau/Features/lava_lake_throne_room_v01_01.tdtx:1-y:1": "Caldera Of The King",
+    "Metadata/Terrain/Mountain/Plateau/Features/kaomarena.tdtx:6-y:2": "Kaom's Arena"
+  },
+  "1_4_6_1": {
+    "Metadata/Terrain/Mountain/Belly/Feature/belly_tunnel_v01_01.tdtx:1-y:0": "Area Transition"
+  },
+  "1_4_6_2": {
+    "Metadata/Terrain/Mountain/Belly/Feature/belly_tunnel_level2_v01_01.tdtx:1-y:0": "Area Transition",
+    "Metadata/Terrain/Mountain/Belly/Feature/mapmarkeronly_bellyspikes_v01_01.tdtx:0-y:0": "The bowels of the beast"
+  },
+  "1_4_6_3": {
+    "Metadata/Terrain/Mountain/Belly/Feature/belly_tunnel_harvest_v01_01.tdtx:1-y:0": "Area Transition",
+    "Metadata/Terrain/Mountain/Belly/Feature/beastwaypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Mountain/Belly/Feature/belly_taster_entrance_v01_01.tdtx:1-y:0": "The Black Core",
+    "Metadata/Terrain/Mountain/Belly/Feature/doedrestones_area_v01_01.tdtx:1-y:4": "Doedre Area",
+    "Metadata/Terrain/Mountain/Belly/Feature/maligaro_area_v01_01.tdtx:7-y:3": "Maligaro Area",
+    "Metadata/Terrain/Mountain/Belly/Feature/shavronne_area_v01_01.tdtx:1-y:3": "Shavronne Area"
+  },
+  "1_4_7": {
+    "Metadata/Terrain/Act4/Area7/Features/ascent_cliff_doorway_v01_01.tdtx:3-y:1": "Highgate",
+    "Metadata/Terrain/Act4/Area7/Features/ascent_summit_v01_01.tdtx:3-y:3": "Area Transition"
+  },
+  "1_5_1": {
+    "Metadata/Terrain/Church/Features/church_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Theopolis/SlaveDens/Feature/tower_v01_01.tdtx:0-y:3": "Area Transition"
+  },
+  "1_5_2": {
+    "Metadata/Terrain/Theopolis/SlaveDens/Feature/slave_doublewall_tower_stair_transition_v01_01.tdtx:3-y:1": "Overseer's Tower",
+    "Metadata/Terrain/Theopolis/SlaveDens/Ledge/slave_ledge_fence_door_nochest_v01_01.tdtx:0-y:0": "Quest: Miasmeter",
+    "Metadata/Terrain/Theopolis/SlaveDens/Feature/security_exit_v01_01.tdtx:2-y:3": "Oriath Square"
+  },
+  "1_5_3": {
+    "Metadata/Terrain/RuinedCity/Features/citywaypoint_v02_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Theopolis/OriathSquare/Feature/slaveden_entrance_steps_v01_01.tdtx:1-y:5": "The Control Block",
+    "Metadata/Terrain/Theopolis/OriathSquare/Stonewall/Oriath_AreaTransition_v01_03.tdtx:1-y:1": "The Templar Courts"
+  },
+  "1_5_4": {
+    "Metadata/Terrain/Theopolis/TemplarCourt/Feature/templar_oriath_transition_v01_01.tdtx:1-y:2": "The Chamber Of Innocence",
+    "Metadata/Terrain/Theopolis/TemplarCourt/Feature/courts_waypoint_v02_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Theopolis/TemplarCourt/Feature/templar_oriathsquare_transition_v01_01.tdtx:0-y:0": "Vaal Side Area"
+  },
+  "1_5_5": {
+    "Metadata/Terrain/Theopolis/Innocence/Feature/transition_chamber_to_courts_v01_01.tdtx:2-y:2": "The Templar Courts",
+    "Metadata/Terrain/forced_blank.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Theopolis/Innocence/Feature/transition_chamber_to_boss_v01_01.tdtx:2-y:2": "Avarius Arena",
+    "Metadata/Terrain/Theopolis/Innocence/Feature/Innocence_side_transition_v02_01.tdtx:1-y:0": "Vaal Side Area"
+  },
+  "1_5_4b": {
+    "Metadata/Terrain/Theopolis/TemplarCourt/Feature/templar_to_innocents_v01_01.tdtx:1-y:1": "The Chamber Of Innocence",
+    "Metadata/Terrain/Theopolis/TemplarCourt/Feature/templar_oriath_transition_v01_01.tdtx:1-y:2": "The Ruined Square"
+  },
+  "1_5_3b": {
+    "Metadata/Terrain/Theopolis/OriathSquare/Stonewall/Oriath_AreaTransition_v01_03.tdtx:1-y:1": "The Torched Courts",
+    "Metadata/Terrain/RuinedCity/Features/citywaypoint_v02_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Theopolis/OriathSquare/Stonewall/Oriath_AreaTransition_v01_04.tdtx:1-y:1": "The Ossuary / Vaal Side Area",
+    "Metadata/Terrain/Theopolis/OriathSquare/Stonewall/Oriath_AreaTransition_v01_02.tdtx:1-y:0": "The Reliquary / Vaal Side Area",
+    "Metadata/Terrain/Theopolis/OriathSquare/Rosettes/chitus_rosette_defaced_v03_05.tdtx:1-y:2": "Do not forget to donate",
+    "Metadata/Terrain/Theopolis/OriathSquare/Feature/chitus_statuewall_transition_v01_01.tdtx:0-y:0": "The Cathedral Rooftop"
+  },
+  "1_5_6": {
+    "Metadata/Terrain/Theopolis/Ossuary/Feature/Ossuary_abyss_transition_v01_01.tdtx:0-y:1": "The Ruined Square",
+    "Metadata/Terrain/Theopolis/Ossuary/Feature/ossuary_quest_v01_01.tdtx:0-y:0": "Quest: Sign of purity",
+    "Metadata/Terrain/Theopolis/Ossuary/Feature/hidden_Ossuary_SecretWall_OpenAnimation_v01_01.tdtx:2-y:2": "Crafting Recipe"
+  },
+  "1_5_7": {
+    "Metadata/Terrain/Theopolis/Reliquary/Feature/Reliquary_Oriath_transition_v01_01.tdtx:1-y:1": "The Ruined Square",
+    "Metadata/Terrain/Theopolis/Reliquary/Feature/Reliquary_waypoint_v01_01.tdtx:0-y:0": "Waypoint"
+  },
+  "1_5_8": {
+    "Metadata/Terrain/Theopolis/CathedralRoof/Feature/cathedral_roof_transition_v01_01.tdtx:7-y:17": "The Ruined Square",
+    "Metadata/Terrain/Theopolis/CathedralRoof/Feature/cathedralroof_boss_area_v02_01.tdtx:4-y:1": "Cathedral Apex"
+  },
+  "2_6_1": {
+    "Metadata/Terrain/Beach/Transitions/beachtown_south_entrance_part2.tdtx:1-y:4": "Lioneye's Watch",
+    "Metadata/Terrain/Beach/Special/zombie_bite_v01_01.tdtx:0-y:1": "Quest: Kill Boss"
+  },
+  "2_6_2": {
+    "Metadata/Terrain/Beach/Transitions/beachtown_north_entrance_v2.tdtx:5-y:0": "Lioneye's Watch",
+    "Metadata/Terrain/Beach/Features/beach_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Beach/Transitions/BeachToSwamp/act6_area2_transition_v01_01.tdtx:4-y:1": "The Mud  Flats",
+    "Metadata/Terrain/Beach/Transitions/TidalIsland/karui_coast_to_island_transition_v01_01.tdtx:9-y:3": "The Tidal Island"
+  },
+  "2_6_3": {
+    "Metadata/Terrain/Beach/Transitions/TidalIsland/karui_island_to_coast_transition_v01_01.tdtx:9-y:3": "The Coast",
+    "Metadata/Terrain/Beach/Special/kyrenia_boat_medicinequest_v01_01.tdtx:2-y:2": "Quest: Medicine"
+  },
+  "2_6_4": {
+    "Metadata/Terrain/Beach/Transitions/BeachToSwamp/act6_area2_transition_v01_01_reverse.tdtx:4-y:2": "The Coast",
+    "Metadata/Terrain/Beach/Transitions/BeachToWatercave_v2/Beach_to_watercave_v2.tdtx:0-y:0": "Quest: Eye",
+    "Metadata/Terrain/Beach/Transitions/beach_karuipools_v01_01.tdtx:6-y:3": "The Karui Fortress"
+  },
+  "2_6_5": {
+    "Metadata/Terrain/Beach/Transitions/beach_karuipools_v01_02.tdtx:7-y:3": "The Mud Flats",
+    "Metadata/Terrain/Beach/Features/swamp_longbridge_v01_01.tdtx:3-y:1": "Area Transition",
+    "Metadata/Terrain/Beach/Transitions/swamp_to_ridge_v01_01.tdtx:1-y:1": "The Ridge"
+  },
+  "2_6_6": {
+    "Metadata/Terrain/Beach/Transitions/FetidPool/ledge_to_fetidpool_transition_v01_01.tdtx:4-y:5": "The Karui Fortress",
+    "Metadata/Terrain/Beach/Features/beach_waypoint_v02_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Beach/Special/ledge_prisonback.tdtx:4-y:6": "The Lower Prison"
+  },
+  "2_6_7_1": {
+    "Metadata/Terrain/Prison/Features/act1_2_ceiling_transition_v01_01.tdtx:1-y:0": "The Ridge",
+    "Metadata/Terrain/Prison/Features/prison_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Prison/Features/prison_trial_door_v01_01.tdtx:1-y:0": "Trial Of Ascendancy",
+    "Metadata/Terrain/Prison/Features/shavronne_prison_door_up_v01_01.tdtx:1-y:1": "Shavronne's Tower"
+  },
+  "2_6_7_2": {
+    "Metadata/Terrain/Prison/Features/shavronne_prison_door_up_v01_02.tdtx:2-y:1": "The Lower Prison",
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:1-y:1": "Stairs",
+    "Metadata/Terrain/Prison/Features/prison_entrance_down_v01_01.tdtx:0-y:1": "Stairs (Back)",
+    "Metadata/Terrain/Prison/Features/prison_ladder_v01_01.tdtx:0-y:0": "Prison Rooftop",
+    "Metadata/Terrain/Prison/Features/prison_ladder_v02_01.tdtx:0-y:0": "Back",
+    "Metadata/Terrain/Prison/Features/tower_spiral_stair_v01_01.tdtx:1-y:1": "Next",
+    "Metadata/Terrain/Prison/Features/shavronne_prison_door_up_v01_03.tdtx:2-y:1": "Prison Rooftop",
+    "Metadata/Terrain/Prison/Features/prison_door_up_v01_01.tdtx:1-y:1": "Prisoner's Gate"
+  },
+  "2_6_8": {
+    "Metadata/Terrain/Beach/Features/beach_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Beach/Transitions/BeachToSwamp/beach_togoatboss_v01_03.tdtx:5-y:3": "Area Transition",
+    "Metadata/Terrain/Beach/Transitions/BeachToSwamp/beach_togoatboss_v01_01.tdtx:8-y:3": "Area Transition",
+    "Metadata/Terrain/Beach/Transitions/BeachToSwamp/beach_togoatboss_v01_02.tdtx:8-y:3": "Area Transition",
+    "Metadata/Terrain/Beach/Transitions/beach_passageblock_v01_01.tdtx:5-y:3": "The Western Forest"
+  },
+  "2_6_9": {
+    "Metadata/Terrain/Forest/Transitions/forest_mountainpass_v01_01.tdtx:3-y:3": "Prisoner's Gate",
+    "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Forest/Features/forest_tallstones_empty.tdtx:1-y:2": "Area Boss",
+    "Metadata/Terrain/Forest/Transitions/roadtothickforest_entrance_v01_01.tdtx:1-y:1": "The Riverways"
+  },
+  "2_6_10": {
+    "Metadata/Terrain/Forest/Transitions/roadtothickforest_entrance_v01_01.tdtx:5-y:1": "The Western Forest",
+    "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Forest/Transitions/bridgeconnection_v01_01.tdtx:1-y:1": "The Wetlands",
+    "Metadata/Terrain/Forest/Transitions/forest_to_river_v01_01.tdtx:5-y:1": "The Southern Forest"
+  },
+  "2_6_12": {
+    "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Forest/Transitions/forest_caveentrance_v01_01.tdtx:1-y:2": "The Cavern of Anger"
+  },
+  "2_6_13": {
+    "Metadata/Terrain/Beach/Transitions/MerveilExit/merveil_exit_clean_v01_01.tdtx:1-y:2": "The southern forest",
+    "Metadata/Terrain/Cave/Features/cave_river_nessa_corner.tdtx:0-y:0": "Quest: Flag Chest",
+    "Metadata/Terrain/Cave/Features/cavedown_boss_exit_v01_01.tdtx:1-y:0": "Passage",
+    "Metadata/Terrain/Cave/Features/caveup_exit_v01_01.tdtx:1-y:0": "Area Transition",
+    "Metadata/Terrain/Cave/River/cave_river_concave_v01_02.tdtx:0-y:0": "Near Real One"
+  },
+  "2_6_14": {
+    "Metadata/Terrain/Forest/Transitions/forest_caveentrance_v01_01.tdtx:1-y:3": "The Cavern Of Anger",
+    "Metadata/Terrain/Beach/Features/beach_waypoint_v02_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Beach/Beacon/beacon_nostairs_v01_01.tdtx:3-y:0": "Quest: Beacon",
+    "Metadata/Terrain/Beach/Beacon/beach_walkablelargecliffwater_weylamwalk_v01_01.tdtx:3-y:5": "Area Transition"
+  },
+  "2_6_11": {
+    "Metadata/Terrain/Forest/Transitions/bridgeconnection_v01_01.tdtx:1-y:1": "The Riverways",
+    "Metadata/Terrain/Forest/Transitions/forest_caveentrance_v01_01.tdtx:2-y:3": "Area Transition"
+  },
+  "2_6_15": {
+    "Metadata/Terrain/Beach/Features/beach_waypoint_v02_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Beach/Transitions/TidalIsland/beach_island_transition_brine_king.tdtx:9-y:3": "The Brine King's Throne",
+    "Metadata/Terrain/Beach/Features/BrineKingArena.tdtx:2-y:2": "The brine king's Reef"
+  },
+  "2_7_1": {
+    "Metadata/Terrain/Forest/Features/bridge_partial_v01_01.tdtx:4-y:2": "The Bridge Enchampment",
+    "Metadata/Terrain/Forest/Features/VillageRuins/manor_ruins_back_v01_01.tdtx:0-y:0": "Quest: Silver Locket",
+    "Metadata/Terrain/Forest/Transitions/bridgeconnection_v01_01.tdtx:1-y:1": "The Crossroads"
+  },
+  "2_7_2": {
+    "Metadata/Terrain/Forest/Transitions/bridgeconnection_v01_01.tdtx:0-y:1": "The Broken Bridge",
+    "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Forest/Transitions/road_wall_gate_v01_01_reverse.tdtx:1-y:1": "The Fellshrine Ruins",
+    "Metadata/Terrain/Forest/Transitions/temple_entrance_v01_01.tdtx:2-y:1": "The Chamber of Sins Level 1"
+  },
+  "2_7_5_1": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_entrance_v01_01.tdtx:1-y:1": "The Crossroads",
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_down_v01_01.tdtx:1-y:2": "The Chamber of Sins Level 2"
+  },
+  "2_7_3": {
+    "Metadata/Terrain/Forest/Transitions/road_wall_gate_v01_01.tdtx:1-y:1": "The Crossroads",
+    "Metadata/Terrain/Forest/Transitions/church_dungeon_entrance_v01_01.tdtx:1-y:1": "The Crypt"
+  },
+  "2_7_4": {
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:0-y:1": "The fellshrine ruins",
+    "Metadata/Terrain/Church/Features/church_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Church/Features/labyrinth_catacombs_door_v01_01.tdtx:1-y:0": "Trial Of Ascendancy",
+    "Metadata/Terrain/Church/Features/church_sarcophagus_entrance_01.tdtx:0-y:0": "Stairs",
+    "Metadata/Terrain/RuinedCity/Library/Features/library_entrance_v03_01.tdtx:2-y:0": "Stairs",
+    "Metadata/Terrain/EndGame/MapScriptorium/Tiles/scriptorium_crevice_thinwall_end_v01_02.tdtx:0-y:0": "Quest"
+  },
+  "2_7_5_map": {
+    "Metadata/Terrain/RuinedTempleForest/Stairs/templeruinforest_fence_stairs_straight_v03_01.tdtx:0-y:0": "Area Boss"
+  },
+  "2_7_5_2": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_up_v01_01.tdtx:0-y:1": "Area Transition",
+    "Metadata/Terrain/RuinedTempleForest/Walls/templeruinforest_labyrinth_door_thin_corridor_v01_03.tdtx:1-y:0": "Trial Of Ascendancy",
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_down_v01_01.tdtx:2-y:1": "Hideout",
+    "Metadata/Terrain/RuinedTempleForest/Hidden/templeruinforest_maligaro_passage.tdtx:0-y:0": "The Den"
+  },
+  "2_7_6": {
+    "Metadata/Terrain/RuinedTempleForest/Features/forestcave_temple_exit_down_v01_01.tdtx:1-y:1": "Area Transition",
+    "Metadata/Terrain/ForestCave/Features/forestcave_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/ForestCave/Features/forestcave_exit_up_v01_01.tdtx:1-y:1": "The Ashen Fields"
+  },
+  "2_7_7": {
+    "Metadata/Terrain/ForestCave/Features/forestcave_entrance_hole_v01_01.tdtx:0-y:0": "The Den",
+    "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Forest/Special/oldfields_campboss_v01_01.tdtx:7-y:13": "The Fortress Encampment",
+    "Metadata/Terrain/Forest/Special/oldfields_campboss_v01_01.tdtx:12-y:8": "The Northern Forest"
+  },
+  "2_7_8": {
+    "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Forest/Transitions/grovewall_entrance_v01_01.tdtx:0-y:1": "The Dread Thicket",
+    "Metadata/Terrain/Forest/Transitions/forestriver_plinthtransition_v01_01.tdtx:3-y:2": "The Causeway",
+    "Metadata/Terrain/Forest/Features/forest_azmeri_shrine.tdtx:1-y:1": "Quest: Azmeri Shrine"
+  },
+  "2_7_9": {
+    "Metadata/Terrain/Grove/Features/grove_wall_exit_v01_01.tdtx:0-y:1": "The Northern Forest",
+    "Metadata/Terrain/Forest/Features/VaalAltar2.tdtx:0-y:0": "Don't forget to Donate",
+    "Metadata/Terrain/ForestCave/Features/forestcave_entrance_hole_v01_01.tdtx:0-y:0": "Den Of Despair"
+  },
+  "2_7_10": {
+    "Metadata/Terrain/Dungeon/CausewayWaterAbyssEdge/causeway_plinth_transition_v01_01.tdtx:2-y:2": "The Northern Forest",
+    "Metadata/Terrain/Dungeon/Features/waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Dungeon/CausewayThickwall/wildgrowth_inca_exit_v01_01.tdtx:0-y:0": "Vaal Side Area",
+    "Metadata/Terrain/Forest/Transitions/vaal_stairs_bottom_v01_01.tdtx:3-y:2": "The Vaal City & Quest Item"
+  },
+  "2_7_11": {
+    "Metadata/Terrain/Forest/Transitions/vaal_stairs_top_v01_01.tdtx:3-y:7": "The Causeway",
+    "Metadata/Terrain/Dungeon/Features/waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/DungeonWeb/Features/BanteaySrei_Web.tdtx:1-y:1": "The Temple of Decay Level 1"
+  },
+  "2_7_12_1": {
+    "Metadata/Terrain/DungeonWeb/Features/dungeon_inca_exit_v02_01.tdtx:0-y:1": "The Vaal City",
+    "Metadata/Terrain/DungeonWeb/Stairs/dungeon_stairs_down_v01_01.tdtx:2-y:2": "Stairs Next",
+    "Metadata/Terrain/DungeonWeb/Stairs/dungeon_stairs_up_v01_01.tdtx:1-y:2": "Stairs Back"
+  },
+  "2_7_12_2": {
+    "Metadata/Terrain/DungeonWeb/Stairs/dungeon_stairs_up_v01_01.tdtx:1-y:1": "Stairs Back",
+    "Metadata/Terrain/DungeonWeb/Stairs/dungeon_stairs_down_v01_01.tdtx:2-y:1": "Stairs Next",
+    "Metadata/Terrain/DungeonWeb/Features/dungeon_web_inca_exit_v03_01.tdtx:0-y:0": "Arakaali's Web",
+    "Metadata/Terrain/DungeonWeb/Features/dungeon_web_arakaali_balcony_v01_01.tdtx:0-y:1": "The temple of decay level 2",
+    "Metadata/Terrain/DungeonWeb/Features/dungeon_inca_exit_v01_01.tdtx:0-y:1": "The Sarn Ramparts"
+  },
+  "2_8_1": {
+    "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/EndGame/MapRamparts/CustomTiles/ramparts_wall_accesss_v01_01.tdtx:4-y:1": "Stairs",
+    "Metadata/Terrain/Mountain/Arena/Colosseum/Feature/colosseum_trap_door_v01_01.tdtx:1-y:1": "Stairs",
+    "Metadata/Terrain/RuinedCity/AreaTransitions/act8_docks_v01_01.tdtx:1-y:0": "The Sarn Encampment"
+  },
+  "2_8_2_1": {
+    "Metadata/Terrain/RuinedCity/Sewers/Features/sarn_sewerentrance_dual_v01_01.tdtx:6-y:4": "The Sarn Encampment",
+    "Metadata/Terrain/RuinedCity/Sewers/Features/sewerwall_end_tunnel_v01_04.tdtx:1-y:1": "Doedre's Cesspool"
+  },
+  "2_8_2_2": {
+    "Metadata/Terrain/RuinedCity/Sewers/Features/sewerwall_end_tunnel_v01_03.tdtx:0-y:1": "The Toxic Conduits",
+    "Metadata/Terrain/Mountain/SideAreas/aqueduct_sewer_entrance_v01_01.tdtx:0-y:0": "The Cauldron",
+    "Metadata/Terrain/RuinedCity/Sewers/Features/doedre_sewer_grate_v01_01.tdtx:5-y:3": "Doedre's Cesspool",
+    "Metadata/Terrain/RuinedCity/Sewers/Features/doedre_sewer_grate_v01_01.tdtx:4-y:7": "Sewer Outlet",
+    "Metadata/Terrain/RuinedCity/Sewers/Features/cesspool_waypoint_v01_01.tdtx:4-y:4": "Wapoint",
+    "Metadata/Terrain/RuinedCity/Sewers/Features/cesspool_waypoint_v01_01.tdtx:6-y:4": "Arena",
+    "Metadata/Terrain/RuinedCity/Sewers/Features/sewer_ladder_up_v01_01.tdtx:1-y:1": "The Grand Promenade",
+    "Metadata/Terrain/RuinedCity/Sewers/Features/sewerwall_exit_v01_01.tdtx:1-y:0": "The Quay"
+  },
+  "2_8_3": {
+    "Metadata/Terrain/RuinedCity/AreaTransitions/battlefield_lowstream_ladder_v01_01.tdtx:2-y:0": "Doedre's Cesspool",
+    "Metadata/Terrain/RuinedCity/LargeWall/arch_promenade_to_arsenal_v01_01.tdtx:1-y:3": "The Bath House"
+  },
+  "2_8_5": {
+    "Metadata/Terrain/RuinedCity/BathHouse/bathhouse_transition_v01_01.tdtx:1-y:1": "Area Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Floor/labyrinth_floor_waypoint_v02_02.tdtx:1-y:1": "Waypoint",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Floor/bathhouse_rosette_v03_02.tdtx:1-y:2": "Quest: Wings of Vastiri",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Lava/eleganthouse_stairs_to_lava_v02_01.tdtx:0-y:0": "Trail of Assendency"
+  },
+  "2_8_4": {
+    "Metadata/Terrain/RuinedCity/AreaTransitions/garden_wall_entrance_v01_01.tdtx:1-y:2": "Area Transition"
+  },
+  "2_8_6": {
+    "Metadata/Terrain/RuinedCity/AreaTransitions_Part2/EbonyBarracks_arch_v01_01.tdtx:1-y:4": "The Bath House",
+    "Metadata/Terrain/RuinedCity/Features/citywaypoint_v01_02.tdtx:1-y:1": "Waypoint",
+    "Metadata/Terrain/RuinedCity/AreaTransitions_Part2/act3_temple_entrance_v01_01.tdtx:3-y:4": "The Lunaris Temple Level 1",
+    "Metadata/Terrain/RuinedCity/AreaTransitions_Part2/act3_riverbridge_transition_v01_01_barracks.tdtx:2-y:6": "The Harbour Bridge"
+  },
+  "2_8_7_1_": {
+    "Metadata/Terrain/Temple/Features/temple_to_battlefront_v01_01.tdtx:1-y:2": "The Lunaris Concourse",
+    "Metadata/Terrain/Temple/Features/templeclean_waypoint_v01_01.tdtx:0-y:0": "Wapoint",
+    "Metadata/Terrain/Temple/Features/templeclean_exit_down_v01_01.tdtx:1-y:1": "The Lunaris Temple Level 2"
+  },
+  "2_8_7_2": {
+    "Metadata/Terrain/Temple/Features/LunarisWater/templeclean_prepiety_roundtop_center_01.tdtx:0-y:2": "Portal",
+    "Metadata/Terrain/Temple/Features/templeclean_exit_up_v01_02.tdtx:1-y:1": "Area Transition"
+  },
+  "2_8_13": {
+    "Metadata/Terrain/RuinedCity/AreaTransitions_Part2/act3_riverbridge_transition_v01_01.tdtx:8-y:6": "The Lunaris Cancourse",
+    "Metadata/Terrain/RuinedCity/AreaTransitions_Part2/act3_battlefront_to_harbor_v01_01_reversed.tdtx:1-y:10": "The Solaris Concourse",
+    "Metadata/Terrain/RuinedCity/Bridge/bridge_arena_v01_02.tdtx:10-y:6": "The Sky Shrine",
+    "Metadata/Terrain/RuinedCity/Bridge/bridge_arena_v01_01.tdtx:13-y:20": "The Blood Aqueduct"
+  },
+  "2_8_8": {
+    "Metadata/Terrain/RuinedCity/AreaTransitions_Part2/slum_sewer_entrance_opened_v01_01.tdtx:0-y:0": "Doedre's Cesspool",
+    "Metadata/Terrain/RuinedCity/AreaTransitions/market_transition_warehouse_v01_01.tdtx:1-y:3": "Area Transition",
+    "Metadata/Terrain/RuinedCity/Quay/Feature/quay_dock_A_convex_v01_01.tdtx:0-y:2": "Quest: Sealed Casket"
+  },
+  "2_8_9": {
+    "Metadata/Terrain/RuinedCity/AreaTransitions/warehouse_to_blind_alley_v01_01.tdtx:3-y:3": "The Quay",
+    "Metadata/Terrain/RuinedCity/Features/citywaypoint_v02_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/RuinedCity/AreaTransitions/warehouse_transition_slums_v01_01.tdtx:0-y:2": "Quest: Kill",
+    "Metadata/Terrain/RuinedCity/AreaTransitions_Part2/act8_grain_gate_transition_v01_01.tdtx:7-y:4": "The Imperial Fields"
+  },
+  "2_8_10": {
+    "Metadata/Terrain/RuinedCity/GrainGate/GrainGateBridge_v01_01.tdtx:5-y:6": "The Grain Gate",
+    "Metadata/Terrain/Forest/Features/forest_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/RuinedCity/AreaTransitions/act8_temple_entrance_v01_01.tdtx:3-y:5": "The Solaris Temple Level 1"
+  },
+  "2_8_12_1": {
+    "Metadata/Terrain/Temple/Features/temple_to_battlefront_v01_01.tdtx:3-y:0": "Area Transition",
+    "Metadata/Terrain/Temple/Features/templeclean_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Temple/Features/templeclean_exit_down_v01_01.tdtx:1-y:2": "The Solaris Temple Level 2"
+  },
+  "2_8_12_2": {
+    "Metadata/Terrain/Temple/Features/templeclean_exit_up_v01_02.tdtx:1-y:1": "The Solaris Temple Level 1",
+    "Metadata/Terrain/Temple/Features/templeclean_exit_down_v01_02.tdtx:0-y:1": "Area Transition",
+    "Metadata/Terrain/Temple/Features/gemling_queen_throne_p2_v01_01.tdtx:2-y:2": "Portal"
+  },
+  "2_8_11": {
+    "Metadata/Terrain/RuinedCity/AreaTransitions/act3_temple_entrance_v01_01.tdtx:3-y:4": "The Solaris Temple Level 1",
+    "Metadata/Terrain/RuinedCity/Features/citywaypoint_v01_01.tdtx:0-y:1": "Waypoint",
+    "Metadata/Terrain/RuinedCity/AreaTransitions_Part2/act3_battlefront_to_harbor_v01_01.tdtx:1-y:11": "The Harbour Bridge"
+  },
+  "2_9_1": {
+    "Metadata/Terrain/Mountain/Aqueduct/BloodAqueduct/bloodaqueduct_entrance_v01_01.tdtx:10-y:11": "Waypoint"
+  },
+  "2_9_2": {
+    "Metadata/Terrain/Act4/Area7/Features/ascent_cliff_doorway_v01_01.tdtx:3-y:1": "Highgate",
+    "Metadata/Terrain/Act4/Area7/Features/descent_top_winch_v01_01.tdtx:0-y:3": "Supply Hoist",
+    "Metadata/Terrain/Act4/Area7/Features/descent_elevator_v01_01.tdtx:2-y:0": "Supply Hoist",
+    "Metadata/Terrain/Act4/Area7/Features/descent_ravine_convex_winch_v01_01.tdtx:1-y:0": "Supply Hoist",
+    "Metadata/Terrain/Act4/Area7/Features/decent_ravinestraight_tocliff_winch_v01_01.tdtx:0-y:0": "The Vastiri Desert"
+  },
+  "2_9_3": {
+    "Metadata/Terrain/Beach/Features/beach_waypoint_v02_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Act4/Area7/Features/descent_solo_elevator_v01_01.tdtx:1-y:1": "The Descent",
+    "Metadata/Terrain/Mountain/DriedLake/SandDunes/DriedLakeDunes_v03_06.tdtx:2-y:2": "Quest: Storm-Weathered",
+    "Metadata/Terrain/Act4/Area7/Features/desert_to_foothills_v01_01.tdtx:2-y:4": "The Foothills",
+    "Metadata/Terrain/Mountain/DriedLake/Transitions/wagons_transition_v01_01_reverse.tdtx:3-y:2": "The Oasis"
+  },
+  "2_9_4": {
+    "Metadata/Terrain/Mountain/DriedLake/Transitions/wagons_transition_v01_01.tdtx:3-y:2": "The Vastiri Desert",
+    "Metadata/Terrain/Mountain/DriedLake/Features/rockwall_transition_v01_02.tdtx:3-y:1": "Area Transition",
+    "Metadata/Terrain/Mountain/DriedLake/Features/rockwall_transition_v01_01.tdtx:3-y:0": "The Sand Pit",
+    "Metadata/Terrain/Mountain/DriedLake/Features/rockwall_transition_v01_02_reverse.tdtx:3-y:1": "The Swallowing Sands"
+  },
+  "2_9_5": {
+    "Metadata/Terrain/Act4/Area7/Features/foothill_to_desert_v01_01.tdtx:2-y:2": "The Vastiri Desert",
+    "Metadata/Terrain/Mountain/Foothills/foothills_tunnel_exit_v01_01.tdtx:3-y:0": "The Tunnel",
+    "Metadata/Terrain/Beach/Features/beach_waypoint_v02_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Mountain/Foothills/foothills_to_boilinglake_v01_01.tdtx:4-y:6": "The Boiling Lake"
+  },
+  "2_9_6": {
+    "Metadata/Terrain/Mountain/BoilingLake/lake_transition_v01_01.tdtx:3-y:4": "Vaal Side Area",
+    "Metadata/Terrain/Mountain/BoilingLake/lake_transition_v02_01.tdtx:5-y:3": "Area Transition",
+    "Metadata/Terrain/Mountain/DriedLake/SandDunes/DriedLakeDunes_v01_01.tdtx:2-y:2": "Kill Uniq Boss"
+  },
+  "2_9_7": {
+    "Metadata/Terrain/Mountain/Mines/Features/tunnel_areatransition_entrance_v01_01.tdtx:2-y:3": "The Foothills",
+    "Metadata/Terrain/Mountain/Mines/Features/mine_labyrinthtrial_doorframe_v01_01.tdtx:1-y:0": "Trial Of Ascendancy",
+    "Metadata/Terrain/Mountain/Special/mountainwaypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Mountain/Mines/Features/tunnels_to_quarry_transition_v01_01.tdtx:0-y:1": "The Quarry"
+  },
+  "2_9_8": {
+    "Metadata/Terrain/Mountain/Quarry/Feature/quarry_to_tunnels_transition_v01_01.tdtx:0-y:1": "The Tunnel",
+    "Metadata/Terrain/Mountain/Belly/Feature/beastwaypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Mountain/Quarry/Slums/slum_thinwall_arena_entrance.tdtx:2-y:1": "Shrine of the winds",
+    "Metadata/Terrain/Mountain/Quarry/Slums/slum_arena_entrance.tdtx:2-y:1": "The Quarry",
+    "Metadata/Terrain/Mountain/Quarry/Feature/GarukhansHutt.tdtx:3-y:0": "Quest: Sekhema Feather",
+    "Metadata/Terrain/Mountain/Quarry/Feature/warehouse_entrance_v01_01.tdtx:0-y:3": "The Refinery",
+    "Metadata/Terrain/Mountain/Mines/Features/mine_vaal_areatransition_v01_01.tdtx:1-y:1": "Vaal Side Area",
+    "Metadata/Terrain/Mountain/Quarry/Feature/BeastMembrane.tdtx:1-y:1": "The Belly Of the Beast"
+  },
+  "2_9_9": {
+    "Metadata/Terrain/Mountain/Refinery/refinery_thinwall_boss_door_v01_01.tdtx:0-y:1": "Quest: Trarthan Powder"
+  },
+  "2_9_10_1": {
+    "Metadata/Terrain/Mountain/Belly/Feature/belly_to_quarry_v01_01.tdtx:1-y:0": "The Quarry",
+    "Metadata/Terrain/Mountain/Belly/Feature/belly_to_rottingcore_v01_01.tdtx:1-y:0": "The Rotting Core"
+  },
+  "2_9_10_2": {
+    "Metadata/Terrain/Mountain/Belly/Feature/belly_tunnel_level2_v01_01.tdtx:1-y:0": "The belly of the beast",
+    "Metadata/Terrain/Mountain/Belly/Feature/belly_groundhole.tdtx:0-y:0": "The Black Core"
+  },
+  "2_10_1": {
+    "Metadata/Terrain/Theopolis/CathedralRoof/Feature/cathedral_roof_transition_v01_02.tdtx:1-y:1": "Oriath Docks",
+    "Metadata/Terrain/Theopolis/CathedralRoof/Feature/cathedralroof_boss_area_v02_01.tdtx:4-y:1": "Cathedral Apex",
+    "Metadata/Terrain/Theopolis/CathedralRoof/Feature/cathedral_roof_transition_v01_01.tdtx:7-y:17": "The Ravaged Square"
+  },
+  "2_10_2": {
+    "Metadata/Terrain/Theopolis/OriathSquare/Feature/chitus_statuewall_transition_v01_01.tdtx:0-y:0": "The Cathedral Rooftop",
+    "Metadata/Terrain/RuinedCity/Features/citywaypoint_v02_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Theopolis/OriathSquare/Stonewall/Oriath_AreaTransition_v01_04.tdtx:1-y:1": "The Ossuary / Vaal Side Area",
+    "Metadata/Terrain/Theopolis/OriathSquare/Stonewall/Oriath_AreaTransition_v01_02.tdtx:1-y:0": "The Reliquary / Vaal Side Area",
+    "Metadata/Terrain/Theopolis/OriathSquare/Feature/slaveden_entrance_steps_v01_01.tdtx:1-y:5": "The Control Blocks",
+    "Metadata/Terrain/Theopolis/OriathSquare/Stonewall/Oriath_AreaTransition_v01_03.tdtx:1-y:1": "The Torched Courts",
+    "Metadata/Terrain/Theopolis/OriathSquare/Feature/OriathBlockage_v02_01.tdtx:3-y:0": "The Canals"
+  },
+  "2_10_9": {
+    "Metadata/Terrain/Theopolis/Ossuary/Feature/Ossuary_Fire_Abyss_v01_01.tdtx:2-y:1": "Quest near here",
+    "Metadata/Terrain/Theopolis/Ossuary/Feature/Ossuary_forced_thickwall_straight_v01_04.tdtx:0-y:0": "Trial Of Ascendancy",
+    "Metadata/Terrain/Theopolis/Ossuary/Feature/Ossuary_abyss_transition_v01_01.tdtx:0-y:1": "Area Transition",
+    "Metadata/Terrain/Theopolis/Ossuary/Feature/Ossuary_thickwall_transition_v01_01.tdtx:0-y:0": "Area Transition"
+  },
+  "2_10_8": {
+    "Metadata/Terrain/Theopolis/Reliquary/Feature/Reliquary_looted_Oriath_transition_v01_01.tdtx:1-y:1": "The Ravaged Square",
+    "Metadata/Terrain/Theopolis/Reliquary/Feature/Reliquary_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Theopolis/Reliquary/Ledge/Reliquary_ledge_straight_v01_01.tdtx:0-y:0": "Quest: The Teardrop"
+  },
+  "2_10_7": {
+    "Metadata/Terrain/Theopolis/SlaveDens/Feature/security_exit_generic.tdtx:1-y:3": "The Ravaged Square",
+    "Metadata/Terrain/Church/Features/church_waypoint_v01_01.tdtx:0-y:0": "Waypoint",
+    "Metadata/Terrain/Theopolis/SlaveDens/Feature/slave_ledge_doubledoor_transition_v01_01.tdtx:0-y:0": "Arena"
+  },
+  "2_10_3": {
+    "Metadata/Terrain/Theopolis/TemplarCourt/Feature/templar_oriath_transition_v01_01.tdtx:1-y:2": "The Ravaged Square",
+    "Metadata/Terrain/Theopolis/TemplarCourt/Feature/templar_to_innocents_v01_01.tdtx:1-y:1": "The Desecrated Chambers"
+  },
+  "2_10_4": {
+    "Metadata/Terrain/Theopolis/Innocence/Feature/transition_chamber_to_courts_shattered_v01_01.tdtx:2-y:2": "The Torched Courts",
+    "Metadata/Terrain/Theopolis/Innocence/Feature/transition_chamber_to_boss_shattered_v01_01.tdtx:3-y:2": "Sanctum Of Innocence",
+    "Metadata/Terrain/Theopolis/Innocence/Feature/Innocence_boss_transition_v01_01.tdtx:2-y:2": "Area Transition"
+  },
+  "2_10_5": {
+    "Metadata/Terrain/Theopolis/OriathSquare/Feature/Canal_ReverseTransition_v01_01.tdtx:0-y:2": "The Ravaged Square",
+    "Metadata/Terrain/Theopolis/OriathSquare/Stonewall/Oriath_AreaTransition_v01_04.tdtx:1-y:0": "Vaal Side Area",
+    "Metadata/Terrain/Theopolis/OriathSquare/Feature/CanalBridgeTransition_v01_01.tdtx:2-y:1": "Area Transition"
+  },
+  "2_10_6": {
+    "Metadata/Terrain/Theopolis/OriathSquare/Feature/CanalBridgeTransition_v01_01.tdtx:2-y:1": "The Canal",
+    "Metadata/Terrain/Theopolis/Special/act10_kitava_arena_v01_01.tdtx:11-y:2": "Altar of hunger"
+  },
+  "2_Labyrinth_OH_branch": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:1-y:0": "Darkshrine",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "2_Labyrinth_DG_branch_bottleneck_1_#": {
+    "Metadata/Terrain/RuinedCity/Labyrinth/labyrinth_dry_garden_door_v01_01.tdtx:2-y:3": "Transition",
+    "Metadata/Terrain/RuinedCity/LargeWallGardens/gardendry_wall_straight_SecretWall_v01_01.tdtx:1-y:1": "Darkshrine"
+  },
+  "2_Labyrinth_RT_branch_bottleneck_1": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedTempleForest/Hidden/templeruinforest_hidden_door_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "2_Labyrinth_RT_straight": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedTempleForest/Hidden/templeruinforest_hidden_door_v01_01.tdtx:1-y:0": "Darkshrine"
+  },
+  "2_Labyrinth_P_branch": {
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Prison/Hidden/hidden_prison_SecretWall_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "2_Labyrinth_C_straight": {
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Church/Hidden/dungeon_church_secretwall_straight_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "2_Labyrinth_OH_quad_#": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:0-y:0": "Transition"
+  },
+  "2_Labyrinth_OH_straight": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "1_Labyrinth_OH_straight": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:1-y:0": "Darkshrine",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "1_Labyrinth_boss_1": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_Izaro_transition_v01_01.tdtx:2-y:2": "Izaro",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/izaro_transition_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "1_Labyrinth_C_branch_bottleneck_2": {
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:0-y:1": "Transition",
+    "Metadata/Terrain/Church/Hidden/dungeon_church_secretwall_straight_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "1_Labyrinth_C_straight": {
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:0-y:1": "Transition",
+    "Metadata/Terrain/Church/Hidden/dungeon_church_secretwall_straight_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "1_Labyrinth_boss_2": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/izaro_transition_v01_01.tdtx:1-y:0": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_Izaro_transition_v01_01.tdtx:2-y:2": "Izaro"
+  },
+  "1_Labyrinth_EH_block_branch": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:1-y:0": "Darkshrine",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "1_Labyrinth_EH_branch": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:0": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "1_Labyrinth_RT_straight": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_up_v01_01.tdtx:0-y:1": "Transition",
+    "Metadata/Terrain/RuinedTempleForest/Hidden/templeruinforest_hidden_door_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "1_Labyrinth_boss_2_end": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/izaro_transition_v01_01.tdtx:1-y:0": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_Izaro_transition_v01_01.tdtx:2-y:3": "Izaro"
+  },
+  "1_Labyrinth_RT_branch_bottleneck_2": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedTempleForest/Hidden/templeruinforest_hidden_door_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "2_Labyrinth_RT_straight_bottleneck": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedTempleForest/Hidden/templeruinforest_hidden_door_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "2_Labyrinth_boss_2": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/izaro_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_Izaro_transition_v01_01.tdtx:2-y:3": "Izaro"
+  },
+  "2_Labyrinth_OH_branch_bottleneck_1": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:1-y:0": "Darkshrine"
+  },
+  "2_Labyrinth_P_straight": {
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Prison/Hidden/hidden_prison_SecretWall_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "2_Labyrinth_C_branch_bottleneck_1": {
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:0-y:1": "Transition",
+    "Metadata/Terrain/Church/Hidden/dungeon_church_secretwall_straight_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "2_Labyrinth_boss_1": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/izaro_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_Izaro_transition_v01_01.tdtx:2-y:3": "Izaro"
+  },
+  "2_Labyrinth_P_branch_bottleneck_2": {
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "2_Labyrinth_EH_branch": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "2_Labyrinth_boss_2_end": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/izaro_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_Izaro_transition_v01_01.tdtx:2-y:3": "Izaro"
+  },
+  "3_Labyrinth_OH_branch_door": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Wall/eleganthouse_thickwall_doorclear_v01_01.tdtx:1-y:0": "Golden Key/Door"
+  },
+  "3_Labyrinth_DG_straight": {
+    "Metadata/Terrain/RuinedCity/Labyrinth/labyrinth_dry_garden_door_v01_01.tdtx:1-y:3": "Transition",
+    "Metadata/Terrain/RuinedCity/Labyrinth/garden_secret_passage_v01_01.tdtx:0-y:0": "Secret Passage",
+    "Metadata/Terrain/RuinedCity/LargeWallGardens/gardendry_wall_straight_SecretWall_v01_01.tdtx:1-y:1": "Darkshrine"
+  },
+  "3_Labyrinth_boss_2": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/izaro_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_Izaro_transition_v01_01.tdtx:2-y:3": "Izaro"
+  },
+  "3_Labyrinth_C_straight_bottleneck": {
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Church/Hidden/dungeon_church_secretwall_straight_v01_01.tdtx:0-y:0": "Darkshrine",
+    "Metadata/Terrain/Church/Features/labyrinth_sarcophagus_entrance_01.tdtx:0-y:0": "Secret Passage"
+  },
+  "3_Labyrinth_P_straight_bottleneck": {
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Prison/Features/prison_secret_passage_v01_01.tdtx:0-y:0": "Secret Passage",
+    "Metadata/Terrain/Prison/Hidden/hidden_prison_SecretWall_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "3_Labyrinth_P_branch_bottleneck_2": {
+    "Metadata/Terrain/Prison/Features/prison_secret_passage_v01_01.tdtx:0-y:0": "Secret Passage",
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Prison/Hidden/hidden_prison_SecretWall_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "3_Labyrinth_C_straight": {
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Church/Hidden/dungeon_church_secretwall_straight_v01_01.tdtx:0-y:0": "Darkshrine",
+    "Metadata/Terrain/Church/Features/labyrinth_sarcophagus_entrance_01.tdtx:0-y:0": "Secret Passage"
+  },
+  "3_Labyrinth_P_branch_bottleneck_1": {
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Prison/Hidden/hidden_prison_SecretWall_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "3_Labyrinth_P_straight": {
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Prison/Hidden/hidden_prison_SecretWall_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine",
+    "Metadata/Terrain/Prison/Features/prison_secret_passage_v01_01.tdtx:0-y:0": "Secret Passage"
+  },
+  "3_Labyrinth_DG_quad": {
+    "Metadata/Terrain/RuinedCity/Labyrinth/labyrinth_dry_garden_door_v01_01.tdtx:1-y:3": "Transition",
+    "Metadata/Terrain/RuinedCity/LargeWallGardens/gardendry_wall_straight_SecretWall_v01_01.tdtx:1-y:1": "Darkshrine"
+  },
+  "3_Labyrinth_boss_2_end_#": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/izaro_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_Izaro_transition_v01_01.tdtx:2-y:3": "Izaro"
+  },
+  "EndGame_Labyrinth_OH_straight": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_secret_passage_v01_01.tdtx:0-y:0": "Secret Passage",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "EndGame_Labyrinth_C_straight_bottleneck": {
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Church/Hidden/dungeon_church_secretwall_straight_v01_01.tdtx:1-y:0": "Darkshrine",
+    "Metadata/Terrain/Church/Features/labyrinth_sarcophagus_entrance_01.tdtx:0-y:0": "Secret Passage"
+  },
+  "EndGame_Labyrinth_P_branch_bottleneck_1": {
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Prison/Hidden/hidden_prison_SecretWall_OpenAnimation_v01_01.tdtx:1-y:0": "Darkshrine",
+    "Metadata/Terrain/Prison/Features/prison_secret_passage_v01_01.tdtx:0-y:0": "Secret Passage"
+  },
+  "EndGame_Labyrinth_DG_end_bottleneck_#": {
+    "Metadata/Terrain/RuinedCity/Labyrinth/labyrinth_dry_garden_door_v01_01.tdtx:1-y:3": "Transition",
+    "Metadata/Terrain/RuinedCity/LargeWallGardens/gardendry_wall_straight_SecretWall_v01_01.tdtx:1-y:5": "Darkshrine",
+    "Metadata/Terrain/RuinedCity/Labyrinth/garden_secret_passage_v01_01.tdtx:0-y:0": "Secret Passage"
+  },
+  "EndGame_Labyrinth_boss_1": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/izaro_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_Izaro_transition_v01_01.tdtx:2-y:3": "Izaro"
+  },
+  "EndGame_Labyrinth_RT_straight": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_secret_passage_v01_01.tdtx:0-y:1": "Secret Passage"
+  },
+  "EndGame_Labyrinth_P_straight_bottleneck": {
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Prison/Hidden/hidden_prison_SecretWall_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine",
+    "Metadata/Terrain/Prison/Features/prison_secret_passage_v01_01.tdtx:0-y:0": "Secret Passage"
+  },
+  "EndGame_Labyrinth_OH_end_bottleneck": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:1-y:0": "Darkshrine",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_secret_passage_v01_01.tdtx:0-y:0": "Secret Passage"
+  },
+  "EndGame_Labyrinth_C_quad": {
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Church/Hidden/dungeon_church_secretwall_straight_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "EndGame_Labyrinth_EH_branch_bottleneck_2": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "EndGame_Labyrinth_boss_1_end": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/izaro_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_Izaro_transition_v01_01.tdtx:2-y:3": "Izaro"
+  },
+  "1_Labyrinth_P_branch_bottleneck_2": {
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "1_Labyrinth_P_straight": {
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Prison/Hidden/hidden_prison_SecretWall_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "1_Labyrinth_EH_quad": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "1_Labyrinth_EH_straight_#": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "2_Labyrinth_C_straight_bottleneck": {
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Church/Hidden/dungeon_church_secretwall_straight_v01_01.tdtx:1-y:0": "Darkshrine"
+  },
+  "2_Labyrinth_DG_quad": {
+    "Metadata/Terrain/RuinedCity/Labyrinth/labyrinth_dry_garden_door_v01_01.tdtx:1-y:3": "Transition",
+    "Metadata/Terrain/RuinedCity/LargeWallGardens/gardendry_wall_straight_SecretWall_v01_01.tdtx:1-y:1": "Darkshrine"
+  },
+  "2_Labyrinth_EH_straight_#": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "3_Labyrinth_EH_straight_#": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_secret_passage_v01_01.tdtx:0-y:0": "Secret Passage"
+  },
+  "3_Labyrinth_EH_branch_bottleneck_2": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_secret_passage_v01_01.tdtx:0-y:0": "Secret Passage"
+  },
+  "3_Labyrinth_DG_branch": {
+    "Metadata/Terrain/RuinedCity/Labyrinth/labyrinth_dry_garden_door_v01_01.tdtx:1-y:3": "Transition",
+    "Metadata/Terrain/RuinedCity/LargeWallGardens/gardendry_wall_straight_SecretWall_v01_01.tdtx:1-y:2": "Darkshrine"
+  },
+  "EndGame_Labyrinth_EH_branch_door": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "EndGame_Labyrinth_C_straight": {
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Church/Hidden/dungeon_church_secretwall_straight_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "EndGame_Labyrinth_OH_branch_bottleneck_1": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:1-y:0": "Darkshrine",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_secret_passage_v01_01.tdtx:0-y:0": "Secret Passage"
+  },
+  "EndGame_Labyrinth_RT_end_bottleneck": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_up_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "EndGame_Labyrinth_P_branch": {
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Prison/Hidden/hidden_prison_SecretWall_OpenAnimation_v01_01.tdtx:1-y:0": "Darkshrine"
+  },
+  "EndGame_Labyrinth_EH_end_bottleneck": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:1-y:0": "Darkshrine"
+  },
+  "EndGame_Labyrinth_RT_branch_bottleneck_1": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedTempleForest/Hidden/templeruinforest_hidden_door_v01_01.tdtx:0-y:0": "Darkshrine",
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_secret_passage_v01_01.tdtx:0-y:1": "Secret Passage"
+  },
+  "1_Labyrinth_DG_branch": {
+    "Metadata/Terrain/RuinedCity/Labyrinth/labyrinth_dry_garden_door_v01_01.tdtx:1-y:3": "Transition",
+    "Metadata/Terrain/RuinedCity/LargeWallGardens/gardendry_wall_straight_SecretWall_v01_01.tdtx:1-y:1": "Darkshrine"
+  },
+  "2_Labyrinth_OH_straight_bottleneck": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "2_Labyrinth_P_branch_bottleneck_1": {
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Prison/Hidden/hidden_prison_SecretWall_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "2_Labyrinth_RT_branch": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedTempleForest/Hidden/templeruinforest_hidden_door_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "2_Labyrinth_EH_quad": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:1-y:0": "Darkshrine"
+  },
+  "3_Labyrinth_OH_straight": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_secret_passage_v01_01.tdtx:0-y:0": "Secret Passage",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "3_Labyrinth_OH_branch": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "3_Labyrinth_RT_branch_bottleneck_2": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedTempleForest/Hidden/templeruinforest_hidden_door_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "EndGame_Labyrinth_C_end_bottleneck": {
+    "Metadata/Terrain/Church/Features/labyrinth_sarcophagus_entrance_01.tdtx:0-y:0": "Secret Passage",
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "EndGame_Labyrinth_OH_quad_#": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_secret_passage_v01_01.tdtx:0-y:0": "Secret Passage"
+  },
+  "EndGame_Labyrinth_P_end_bottleneck": {
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Prison/Hidden/hidden_prison_SecretWall_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "EndGame_Labyrinth_C_branch_bottleneck_1": {
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Church/Hidden/dungeon_church_secretwall_straight_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "EndGame_Labyrinth_P_quad": {
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "EndGame_Labyrinth_RT_straight_bottleneck": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedTempleForest/Hidden/templeruinforest_hidden_door_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "EndGame_Labyrinth_DG_branch_bottleneck_2": {
+    "Metadata/Terrain/RuinedCity/Labyrinth/labyrinth_dry_garden_door_v01_01.tdtx:1-y:3": "Transition",
+    "Metadata/Terrain/RuinedCity/LargeWallGardens/gardendry_wall_straight_SecretWall_v01_01.tdtx:1-y:3": "Darkshrine"
+  },
+  "2_Labyrinth_P_straight_bottleneck": {
+    "Metadata/Terrain/Prison/Hidden/hidden_prison_SecretWall_OpenAnimation_v01_01.tdtx:1-y:0": "Darkshrine",
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "2_Labyrinth_RT_branch_bottleneck_2": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_up_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "3_Labyrinth_C_branch_bottleneck_2": {
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Church/Hidden/dungeon_church_secretwall_straight_v01_01.tdtx:0-y:0": "Darkshrine",
+    "Metadata/Terrain/Church/Features/labyrinth_sarcophagus_entrance_01.tdtx:0-y:0": "Secret Passage"
+  },
+  "3_Labyrinth_RT_straight": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedTempleForest/Hidden/templeruinforest_hidden_door_v01_01.tdtx:0-y:0": "Darkshrine",
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_secret_passage_v01_01.tdtx:0-y:1": "Secret Passage"
+  },
+  "EndGame_Labyrinth_OH_branch": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:1-y:0": "Darkshrine"
+  },
+  "EndGame_Labyrinth_P_straight": {
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "EndGame_Labyrinth_DG_quad_door": {
+    "Metadata/Terrain/RuinedCity/Labyrinth/labyrinth_dry_garden_door_v01_01.tdtx:1-y:2": "Transition",
+    "Metadata/Terrain/RuinedCity/GardenThinWall/labyrinth_DryGarden_GoldDoor_gate_v01_01.tdtx:1-y:0": "Golden Key/Door"
+  },
+  "EndGame_Labyrinth_C_branch": {
+    "Metadata/Terrain/Church/Hidden/dungeon_church_secretwall_straight_v01_01.tdtx:0-y:0": "Darkshrine",
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:1-y:0": "Transition"
+  },
+  "1_Labyrinth_OH_branch": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "2_Labyrinth_DG_straight_bottleneck": {
+    "Metadata/Terrain/RuinedCity/Labyrinth/labyrinth_dry_garden_door_v01_01.tdtx:1-y:3": "Transition",
+    "Metadata/Terrain/RuinedCity/LargeWallGardens/gardendry_wall_straight_SecretWall_v01_01.tdtx:1-y:1": "Darkshrine"
+  },
+  "3_Labyrinth_C_branch_bottleneck_1": {
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Church/Hidden/dungeon_church_secretwall_straight_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "3_Labyrinth_EH_quad": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "EndGame_Labyrinth_OH_quad_door_#": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "EndGame_Labyrinth_boss_2": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/izaro_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_Izaro_transition_v01_01.tdtx:2-y:3": "Izaro"
+  },
+  "EndGame_Labyrinth_RT_branch_bottleneck_2": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_secret_passage_v01_01.tdtx:0-y:1": "Secret Passage"
+  },
+  "2_Labyrinth_DG_straight": {
+    "Metadata/Terrain/RuinedCity/Labyrinth/labyrinth_dry_garden_door_v01_01.tdtx:2-y:3": "Transition"
+  },
+  "3_Labyrinth_OH_branch_bottleneck_2": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "3_Labyrinth_EH_branch": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:1-y:0": "Darkshrine"
+  },
+  "EndGame_Labyrinth_DG_straight": {
+    "Metadata/Terrain/RuinedCity/LargeWallGardens/gardendry_wall_straight_SecretWall_v01_01.tdtx:1-y:1": "Darkshrine",
+    "Metadata/Terrain/RuinedCity/Labyrinth/labyrinth_dry_garden_door_v01_01.tdtx:2-y:3": "Transition"
+  },
+  "EndGame_Labyrinth_C_branch_bottleneck_2": {
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Church/Hidden/dungeon_church_secretwall_straight_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "EndGame_Labyrinth_EH_quad": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:1-y:0": "Darkshrine"
+  },
+  "EndGame_Labyrinth_C_branch_door": {
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Church/Hidden/dungeon_church_secretwall_straight_v01_01.tdtx:0-y:0": "Darkshrine",
+    "Metadata/Terrain/Church/Features/labyrinth_catacombs_door_v01_01.tdtx:0-y:0": "Golden Key/Door"
+  },
+  "3_Labyrinth_RT_straight_bottleneck": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedTempleForest/Hidden/templeruinforest_hidden_door_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "3_Labyrinth_OH_quad_#": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_secret_passage_v01_01.tdtx:0-y:0": "Secret Passage"
+  },
+  "EndGame_Labyrinth_EH_branch": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_secret_passage_v01_01.tdtx:0-y:0": "Secret Passage",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "EndGame_Labyrinth_RT_quad_#": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_up_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "1_Labyrinth_DG_straight": {
+    "Metadata/Terrain/RuinedCity/Labyrinth/labyrinth_dry_garden_door_v01_01.tdtx:1-y:3": "Transition",
+    "Metadata/Terrain/RuinedCity/LargeWallGardens/gardendry_wall_straight_SecretWall_v01_01.tdtx:1-y:1": "Darkshrine"
+  },
+  "2_Labyrinth_C_branch": {
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "3_Labyrinth_OH_straight_bottleneck": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_secret_passage_v01_01.tdtx:0-y:0": "Secret Passage"
+  },
+  "3_Labyrinth_C_branch_door": {
+    "Metadata/Terrain/Church/Features/church_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Church/Features/church_entrance_thin_no_yellow_map_v01_01.tdtx:0-y:0": "Golden Key/Door",
+    "Metadata/Terrain/Church/Features/labyrinth_catacombs_door_v01_01.tdtx:1-y:0": "Golden Key/Door"
+  },
+  "EndGame_Labyrinth_EH_straight_bottleneck": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "EndGame_Labyrinth_boss_2_end": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/izaro_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_Izaro_transition_v01_01.tdtx:2-y:3": "Izaro"
+  },
+  "1_Labyrinth_DG_quad": {
+    "Metadata/Terrain/RuinedCity/Labyrinth/labyrinth_dry_garden_door_v01_01.tdtx:2-y:3": "Transition",
+    "Metadata/Terrain/RuinedCity/LargeWallGardens/gardendry_wall_straight_SecretWall_v01_01.tdtx:1-y:1": "Darkshrine"
+  },
+  "EndGame_Labyrinth_DG_branch_door": {
+    "Metadata/Terrain/RuinedCity/LargeWallGardens/gardendry_wall_straight_SecretWall_v01_01.tdtx:1-y:2": "Darkshrine",
+    "Metadata/Terrain/RuinedCity/Labyrinth/labyrinth_dry_garden_door_v01_01.tdtx:2-y:3": "Transition",
+    "Metadata/Terrain/RuinedCity/GardenThinWall/labyrinth_DryGarden_GoldDoor_gate_v01_01.tdtx:0-y:0": "Golden Key/Door"
+  },
+  "EndGame_Labyrinth_OH_straight_bottleneck": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "1_Labyrinth_OH_quad_#": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:1-y:0": "Darkshrine"
+  },
+  "EndGame_Labyrinth_P_quad_door": {
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/Prison/Features/prison_trial_door_v01_01.tdtx:0-y:0": "Golden Key/Door"
+  },
+  "EndGame_Labyrinth_DG_straight_bottleneck": {
+    "Metadata/Terrain/RuinedCity/Labyrinth/garden_secret_passage_v01_01.tdtx:0-y:0": "Secret Passage",
+    "Metadata/Terrain/RuinedCity/Labyrinth/labyrinth_dry_garden_door_v01_01.tdtx:1-y:2": "Transition",
+    "Metadata/Terrain/RuinedCity/LargeWallGardens/gardendry_wall_straight_SecretWall_v01_01.tdtx:1-y:1": "Darkshrine"
+  },
+  "EndGame_Labyrinth_OH_branch_bottleneck_2": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:1-y:0": "Darkshrine"
+  },
+  "EndGame_Labyrinth_RT_branch": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedTempleForest/Hidden/templeruinforest_hidden_door_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "2_Labyrinth_EH_straight_bottleneck": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "3_Labyrinth_EH_straight_bottleneck": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "3_Labyrinth_RT_branch_bottleneck_1": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_up_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "EndGame_Labyrinth_RT_quad_door": {
+    "Metadata/Terrain/RuinedTempleForest/Features/templeruinforest_exit_up_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedTempleForest/Features/RuinedTemple_GoldDoor_thin_v01_03.tdtx:1-y:0": "Golden Key/Door"
+  },
+  "EndGame_Labyrinth_DG_branch_bottleneck_1_#": {
+    "Metadata/Terrain/RuinedCity/Labyrinth/labyrinth_dry_garden_door_v01_01.tdtx:2-y:3": "Transition",
+    "Metadata/Terrain/RuinedCity/Labyrinth/garden_secret_passage_v01_01.tdtx:0-y:0": "Secret Passage"
+  },
+  "EndGame_Labyrinth_EH_straight_#": {
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_secret_passage_v01_01.tdtx:0-y:0": "Secret Passage",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_transition_v01_01.tdtx:1-y:1": "Transition",
+    "Metadata/Terrain/RuinedCity/ElegantHouse/Feature/eleganthouse_thickwall_straight_OpenAnimation_v01_01.tdtx:0-y:0": "Darkshrine"
+  },
+  "EndGame_Labyrinth_P_branch_door": {
+    "Metadata/Terrain/Prison/Features/prison_trial_door_v01_01.tdtx:1-y:0": "Golden Key/Door",
+    "Metadata/Terrain/Prison/Features/prison_exit_up_v01_01.tdtx:1-y:1": "Transition"
+  },
+  "common": {
+    "Metadata/Terrain/Woods/Woods/AzmeriLeague/Features/clearing_npc_01.tdtx:0-y:0": "Breaker of Oaths - Warlock (Wild/Purple)",
+    "Metadata/Terrain/Woods/Woods/AzmeriLeague/Features/clearing_npc_02.tdtx:0-y:0": "The Warden of Eaves - Maji (Vivid/Yellow)",
+    "Metadata/Terrain/Woods/Woods/AzmeriLeague/Features/clearing_npc_03.tdtx:0-y:0": "The Primal Huntress - Primalist (Primal/Blue)",
+    "Metadata/Terrain/Woods/Woods/AzmeriLeague/Features/sticks_in_mud.tdtx:0-y:0": "Grisly Trophy - Body Loot",
+    "Metadata/Terrain/Woods/Woods/AzmeriLeague/Features/boneyard01_01.tdtx:0-y:0": "Boneyard - 50/50 monsters and loot",
+    "Metadata/Terrain/Woods/Woods/AzmeriLeague/Features/stonehenge01_01.tdtx:0-y:0": "Pulsing Tuber (yellow chest area)",
+    "Metadata/Terrain/Woods/Woods/AzmeriLeague/OldForestFill/oldforest_fill_03_lock.tdtx:2-y:2": "Chittering Egg",
+    "Metadata/Terrain/Woods/Woods/AzmeriLeague/Features/GoliathArena.tdtx:2-y:2": "Goliath Arena",
+    "Metadata/Terrain/Woods/Woods/WinterCursed/OrbFeature_01.tdtx:1-y:1": "Ice Boss",
+    "Metadata/Terrain/Woods/Woods/AzmeriLeague/Features/arenaTransition_01.tdtx:0-y:3": "Kings of the Mist Boss"
+  }
+}

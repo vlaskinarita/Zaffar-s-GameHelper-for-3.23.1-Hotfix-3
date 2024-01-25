@@ -1,0 +1,38 @@
+{
+  "UsingUnendingNightmareDeliriumKeystone": true,
+  "DisableEntityProcessingInTownOrHideout": false,
+  "EntitiesToReadBeforeGoingParallel": 32,
+  "DisableAllCounters": false,
+  "HidePerfStatsWhenBg": false,
+  "MinimumPerfStats": true,
+  "HideSettingWindowOnStart": false,
+  "KeyPressTimeout": 80,
+  "FontPathName": "C:\\Windows\\Fonts\\msyh.ttc",
+  "FontSize": 18,
+  "FontLanguage": 1,
+  "FontCustomGlyphRange": "",
+  "MainMenuHotKey": 123,
+  "ShowDataVisualization": false,
+  "ShowKrangledPassiveDetector": false,
+  "ShowGameUiExplorer": false,
+  "ShowPerfStats": false,
+  "OuterCircle": {
+    "Item1": 70,
+    "Item2": false,
+    "Item3": false
+  },
+  "InnerCircle": {
+    "Item1": 30,
+    "Item2": false,
+    "Item3": false
+  },
+  "SkipPreloadedFilesInHideout": true,
+  "CloseWhenGameExit": false,
+  "Vsync": true,
+  "EnableControllerMode": false,
+  "LeaderName": "",
+  "DisableAllRenderingKey": 120,
+  "SpecialNPCPaths": [],
+  "PoiMonstersCategories": [],
+  "ProcessAllRenderableEntities": false
+}

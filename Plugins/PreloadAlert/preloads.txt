@@ -1,0 +1,8432 @@
+[
+  {
+    "Key": "Metadata/NPC/League/Azmeri/UniqueDealer",
+    "Value": {
+      "DisplayName": "Unique Dealer",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 0
+    }
+  },
+  {
+    "Key": "Metadata/NPC/Ghostrider",
+    "Value": {
+      "DisplayName": "Ghostrider",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 0
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Leagues/Azmeri/Objects/Spawners/Harvest_Scale_Tier_01",
+    "Value": {
+      "DisplayName": "Harvest",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 0
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LeagueAzmeri/VoodooKingBoss/VoodooKingBoss",
+    "Value": {
+      "DisplayName": "The King in the Mists 1",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 0
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LeagueAzmeri/VoodooKingBoss/VoodooKingBoss2",
+    "Value": {
+      "DisplayName": "The King in the Mists 2",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 0
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LeagueAzmeri/VoodooKingBoss/VoodooKingBoss3",
+    "Value": {
+      "DisplayName": "The King in the Mists 3",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 0
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LeagueAzmeri/GullGoliath/GullGoliath.ao",
+    "Value": {
+      "DisplayName": "Gull Goliath",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 0
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/SaplingMonster/Objects/RitualOrbHolder",
+    "Value": {
+      "DisplayName": "Ritual Boss",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 0
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LeagueAzmeri/BansheeRemake/Screecher",
+    "Value": {
+      "DisplayName": "Screecher Boss",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 0
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Leagues/Azmeri/Objects/Spawners/Harvest_Scale_Tier_02",
+    "Value": {
+      "DisplayName": "Harvest",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 0
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Leagues/Azmeri/Objects/Spawners/Harvest_Scale_Tier_03",
+    "Value": {
+      "DisplayName": "Harvest",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 0
+    }
+  },
+  {
+    "Key": "Metadata/NPC/League/Ancestral/KahuturoaAncestralPortal",
+    "Value": {
+      "DisplayName": "Kahuturoa",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 1
+    }
+  },
+  {
+    "Key": "Metadata/NPC/League/Ancestral/AkoyaAncestralPortal",
+    "Value": {
+      "DisplayName": "Akoya",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 1
+    }
+  },
+  {
+    "Key": "Metadata/NPC/League/Ancestral/AhuanaAncestralPortal",
+    "Value": {
+      "DisplayName": "Ahuana",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 1
+    }
+  },
+  {
+    "Key": "Metadata/NPC/League/Ancestral/UtulaAncestralPortal",
+    "Value": {
+      "DisplayName": "Utula",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 1
+    }
+  },
+  {
+    "Key": "Metadata/NPC/League/Ancestral/MaataAncestralPortal",
+    "Value": {
+      "DisplayName": "Maata",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 1
+    }
+  },
+  {
+    "Key": "Metadata/NPC/League/Ancestral/TawhanukuAncestralPortal",
+    "Value": {
+      "DisplayName": "Tawhanuku",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 1
+    }
+  },
+  {
+    "Key": "Metadata/NPC/League/Ancestral/KiloavaAncestralPortal",
+    "Value": {
+      "DisplayName": "Kiloava",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 1
+    }
+  },
+  {
+    "Key": "Metadata/NPC/League/Ancestral/IkiahoAncestralPortal",
+    "Value": {
+      "DisplayName": "Ikiaho",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 1
+    }
+  },
+  {
+    "Key": "Metadata/NPC/League/Ancestral/RakiataAncestralPortal",
+    "Value": {
+      "DisplayName": "Rakiata",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 1
+    }
+  },
+  {
+    "Key": "Metadata/NPC/League/Ancestral/KaomAncestralPortal",
+    "Value": {
+      "DisplayName": "Kaom",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 1
+    }
+  },
+  {
+    "Key": "Metadata/NPC/League/Ancestral/NavaliAncestralPortal",
+    "Value": {
+      "DisplayName": "Navali",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 1
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LeagueExpedition/NPC/ExpeditionRog",
+    "Value": {
+      "DisplayName": "Rog [Items crafter]",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 1
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LeagueExpedition/NPC/ExpeditionTujen",
+    "Value": {
+      "DisplayName": "Tujen [Currency gambler]",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 2
+    }
+  },
+  {
+    "Key": "Metadata/NPC/League/Ultimatum/UltimatumNPC",
+    "Value": {
+      "DisplayName": "Ultimatum",
+      "Color": {
+        "X": 0.19305015,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 2
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LeagueExpedition/NPC/ExpeditionGwennen_",
+    "Value": {
+      "DisplayName": "Gwennen [Items gambler]",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 3
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LeagueExpedition/NPC/ExpeditionDannig",
+    "Value": {
+      "DisplayName": "Dannig [Exchange items]",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 4
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/AvatarBossAtlas",
+    "Value": {
+      "DisplayName": "Harbinger Boss",
+      "Color": {
+        "X": 0.39215687,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 5
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LeagueHellscape/FleshFaction/HellscapeFleshBoss",
+    "Value": {
+      "DisplayName": "ScourgeBoss Ghorr",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 6
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LeagueHellscape/PaleFaction/HellscapePaleBoss",
+    "Value": {
+      "DisplayName": "ScourgeBoss Beidat",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 7
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LeagueHellscape/DemonFaction/HellscapeDemonBoss",
+    "Value": {
+      "DisplayName": "ScourgeBoss Ktash",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 8
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Rhoas/RhoaAlbino",
+    "Value": {
+      "DisplayName": "Albino Rhoa",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 9
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Leagues/Heist/Objects/CoinPortal",
+    "Value": {
+      "DisplayName": "Smuggler's Cache",
+      "Color": {
+        "X": 0.17857122,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 10
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Masters/BlightBuilderWild",
+    "Value": {
+      "DisplayName": "Sister Cassia [Blight]",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 11
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Doodads/vaal_sidearea_effects/soulcoaster.ao",
+    "Value": {
+      "DisplayName": "Vaal Side Area",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.25,
+        "Z": 0.25,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 12
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Breach/BreachChest1Large",
+    "Value": {
+      "DisplayName": "Xoph's Clasped Hand",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.3529412,
+        "Z": 0.3529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 13
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Breach/BreachChest2Large",
+    "Value": {
+      "DisplayName": "Tul's Clasped Hand",
+      "Color": {
+        "X": 0.8784314,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 14
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Breach/BreachChest3Large",
+    "Value": {
+      "DisplayName": "Esh's Clasped Hand",
+      "Color": {
+        "X": 0.39215687,
+        "Y": 0.58431375,
+        "Z": 0.92941177,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 15
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Breach/BreachChest4Large",
+    "Value": {
+      "DisplayName": "Uul-Netol's Clasped Hand",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.7058824,
+        "Z": 0.54901963,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 16
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Breach/BreachChest5Large",
+    "Value": {
+      "DisplayName": "Chayula's Clasped Hand",
+      "Color": {
+        "X": 0.9098039,
+        "Y": 0.69803923,
+        "Z": 0.80784315,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 17
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/BreachBosses/BreachBossFireWild",
+    "Value": {
+      "DisplayName": "Lord Xoph, Dark Embers",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.3529412,
+        "Z": 0.3529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 18
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/BreachBosses/BreachBossColdWild",
+    "Value": {
+      "DisplayName": "Lord Tul, Creeping Avalanche",
+      "Color": {
+        "X": 0.8784314,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 19
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/BreachBosses/BreachBossLightningWild",
+    "Value": {
+      "DisplayName": "Lord Esh, Forked Thought",
+      "Color": {
+        "X": 0.39215687,
+        "Y": 0.58431375,
+        "Z": 0.92941177,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 20
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/BreachBosses/BreachBossChaosWild",
+    "Value": {
+      "DisplayName": "Lord Chayula, Who Dreamt",
+      "Color": {
+        "X": 0.7607843,
+        "Y": 0.23137255,
+        "Z": 0.5019608,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 21
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/BreachBosses/BreachBossPhysicalWild",
+    "Value": {
+      "DisplayName": "Lord Uul-Netol, Unburdened Flesh",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.7058824,
+        "Z": 0.54901963,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 22
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/BreachBosses/BreachBossFireMap",
+    "Value": {
+      "DisplayName": "Lord Xoph, Dark Embers",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.3529412,
+        "Z": 0.3529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 23
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/BreachBosses/BreachBossColdMap",
+    "Value": {
+      "DisplayName": "Lord Tul, Creeping Avalanche",
+      "Color": {
+        "X": 0.8784314,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 24
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/BreachBosses/BreachBossLightningMap",
+    "Value": {
+      "DisplayName": "Lord Esh, Forked Thought",
+      "Color": {
+        "X": 0.39215687,
+        "Y": 0.58431375,
+        "Z": 0.92941177,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 25
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/BreachBosses/BreachBossChaosMap",
+    "Value": {
+      "DisplayName": "Lord Chayula, Who Dreamt",
+      "Color": {
+        "X": 0.7607843,
+        "Y": 0.23137255,
+        "Z": 0.5019608,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 26
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/BreachBosses/BreachBossPhysicalMap",
+    "Value": {
+      "DisplayName": "Lord Uul-Netol, Unburdened Flesh",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.7058824,
+        "Z": 0.54901963,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 27
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/BarrelOfSpidersDaemonUnique",
+    "Value": {
+      "DisplayName": "Strange Barrel",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 28
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/ChestDaemonSummonKaomTotems",
+    "Value": {
+      "DisplayName": "Kaom's Cache",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 29
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/ChestDaemonSummonRareUniqueChest2",
+    "Value": {
+      "DisplayName": "Kaom's Cache",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 30
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/ChestDaemonSummonRareUniqueChest3",
+    "Value": {
+      "DisplayName": "Empyrean Apparatus",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 31
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/ChestDaemonSummonRareUniqueChest4",
+    "Value": {
+      "DisplayName": "Ashes of the Condemned",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 32
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/ChestDaemonSummonTormentContinous",
+    "Value": {
+      "DisplayName": "Ashes of the Condemned",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 33
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/ChestDaemonSummonSandstormDaemon",
+    "Value": {
+      "DisplayName": "Deshret's Storm",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 34
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/ChestDaemonSummonExileUniqueChest1",
+    "Value": {
+      "DisplayName": "Perandus Bank",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 35
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/WeylamsWarchestUnique",
+    "Value": {
+      "DisplayName": "Weylam's War Chest",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 36
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/ChestDaemonSummonFireWarband",
+    "Value": {
+      "DisplayName": "Redblade Cache",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 37
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/ChestDaemonSummonColdWarband",
+    "Value": {
+      "DisplayName": "Mutewind Cache",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 38
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/ChestDaemonSummonLightningWarband",
+    "Value": {
+      "DisplayName": "Brinerot Cache",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 39
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/ChestDaemonSummonChaosWarband",
+    "Value": {
+      "DisplayName": "Renegades Cache",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 40
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LegionLeague/LegionKaruiGeneral",
+    "Value": {
+      "DisplayName": "Queen Hyrri Ngamaku [Karui]",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 41
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LegionLeague/LegionMarakethGeneral",
+    "Value": {
+      "DisplayName": "Aukuna, the Black Sekhema [Maraketh]",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 42
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LegionLeague/LegionEternalEmpireGeneral",
+    "Value": {
+      "DisplayName": "General Marceus Lioneye [Eternal]",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 43
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LegionLeague/LegionVaalGeneral",
+    "Value": {
+      "DisplayName": "Viper Napuatzi [Vaal]",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 44
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LegionLeague/LegionTemplarGeneral",
+    "Value": {
+      "DisplayName": "Cardinal Sanctus Vox [Templar]",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 45
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LegionLeague/MonsterChestVaal2",
+    "Value": {
+      "DisplayName": "Vaal War Hoard",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 46
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LegionLeague/MonsterChestVaal1",
+    "Value": {
+      "DisplayName": "Vaal Chest",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 47
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LegionLeague/MonsterChestTemplar2",
+    "Value": {
+      "DisplayName": "Templar War Hoard",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 48
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LegionLeague/MonsterChestTemplar1",
+    "Value": {
+      "DisplayName": "Templar Chest",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 49
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LegionLeague/MonsterChestEternalEmpire2",
+    "Value": {
+      "DisplayName": "Eternal War Hoard",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 50
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LegionLeague/MonsterChestEternalEmpire1",
+    "Value": {
+      "DisplayName": "Eternal Chest",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 51
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LegionLeague/MonsterChestMaraketh2",
+    "Value": {
+      "DisplayName": "Maraketh War Hoard",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 52
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LegionLeague/MonsterChestMaraketh1",
+    "Value": {
+      "DisplayName": "Maraketh Chest",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 53
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LegionLeague/MonsterChestKarui2",
+    "Value": {
+      "DisplayName": "Karui War Hoard",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 54
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LegionLeague/MonsterChestKarui1",
+    "Value": {
+      "DisplayName": "Karui Chest",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 55
+    }
+  },
+  {
+    "Key": "Metadata/MiscellaneousObjects/Abyss/AbyssSubAreaTransition",
+    "Value": {
+      "DisplayName": "Abyssal Depths",
+      "Color": {
+        "X": 0.21176471,
+        "Y": 0.7058824,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 56
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/ReligiousTemplar/AbyssLichBoss1",
+    "Value": {
+      "DisplayName": "Abyss Lich - Ulaman",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 57
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/ReligiousTemplar/AbyssLichBoss2",
+    "Value": {
+      "DisplayName": "Abyss Lich - Amanamu",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 58
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Abyss/AbyssFinalChest",
+    "Value": {
+      "DisplayName": "Abyss #1",
+      "Color": {
+        "X": 0.0,
+        "Y": 0.6666667,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 59
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Abyss/AbyssFinalChest2",
+    "Value": {
+      "DisplayName": "Abyss #2",
+      "Color": {
+        "X": 0.0,
+        "Y": 0.6666667,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 60
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Abyss/AbyssFinalChest3",
+    "Value": {
+      "DisplayName": "Abyss #3",
+      "Color": {
+        "X": 0.0,
+        "Y": 0.6666667,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 61
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Abyss/AbyssFinalChest4",
+    "Value": {
+      "DisplayName": "Abyss #4",
+      "Color": {
+        "X": 0.0,
+        "Y": 0.6666667,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 62
+    }
+  },
+  {
+    "Key": "Metadata/NPC/League/Betrayal/BetrayalNinjaCopRaid",
+    "Value": {
+      "DisplayName": "Syndicate Research",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 63
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LeagueBetrayal/FortWall/FortWall",
+    "Value": {
+      "DisplayName": "Syndicate Fortification",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 64
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LeagueBetrayal/BetrayalOriathBlackguardMeleeChampionCartGuard",
+    "Value": {
+      "DisplayName": "Syndicate Transportation",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 65
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/LeagueBetrayal/BetrayalCatarina",
+    "Value": {
+      "DisplayName": "Catarina, Master of Undeath",
+      "Color": {
+        "X": 0.21176471,
+        "Y": 0.7058824,
+        "Z": 0.7058824,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 66
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Masters/Einhar",
+    "Value": {
+      "DisplayName": "Einhar, Beastmaster",
+      "Color": {
+        "X": 0.39215687,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 67
+    }
+  },
+  {
+    "Key": "Metadata/NPC/League/Incursion/TreasureHunterWild",
+    "Value": {
+      "DisplayName": "Alva, Master Explorer",
+      "Color": {
+        "X": 0.39215687,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 68
+    }
+  },
+  {
+    "Key": "Metadata/NPC/League/Delve/DelveMinerWildVein",
+    "Value": {
+      "DisplayName": "Niko, Master of the Depths",
+      "Color": {
+        "X": 0.39215687,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 69
+    }
+  },
+  {
+    "Key": "Metadata/NPC/League/Delve/DelveMinerWildChest",
+    "Value": {
+      "DisplayName": "Niko, Master of the Depths",
+      "Color": {
+        "X": 0.39215687,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 70
+    }
+  },
+  {
+    "Key": "Metadata/NPC/League/Metamorphosis/MetamorphosisNPCWild",
+    "Value": {
+      "DisplayName": "Metamorph",
+      "Color": {
+        "X": 0.21176471,
+        "Y": 0.7058824,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 71
+    }
+  },
+  {
+    "Key": "Metadata/MiscellaneousObjects/Affliction/AfflictionInitiator",
+    "Value": {
+      "DisplayName": "Delirium",
+      "Color": {
+        "X": 0.21176471,
+        "Y": 0.7058824,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 72
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Leagues/Harvest/Objects/HarvestFeatureChest",
+    "Value": {
+      "DisplayName": "Harvest",
+      "Color": {
+        "X": 0.21176471,
+        "Y": 0.7058824,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 73
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Leagues/Harvest/harvest_encounter.arm",
+    "Value": {
+      "DisplayName": "Harvest",
+      "Color": {
+        "X": 0.21176471,
+        "Y": 0.7058824,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 74
+    }
+  },
+  {
+    "Key": "Metadata/Chests/LeagueHeist/HeistSmugglersCoinCache",
+    "Value": {
+      "DisplayName": "Heist",
+      "Color": {
+        "X": 0.8117647,
+        "Y": 0.69411767,
+        "Z": 0.03529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 75
+    }
+  },
+  {
+    "Key": "Metadata/Chests/LeagueHeist/HeistSmugglersCoinCacheOutdoors",
+    "Value": {
+      "DisplayName": "Heist",
+      "Color": {
+        "X": 0.8117647,
+        "Y": 0.69411767,
+        "Z": 0.03529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 76
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Leagues/Ritual/RitualRuneLight",
+    "Value": {
+      "DisplayName": "Ritual",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.69411767,
+        "Z": 0.4627451,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 77
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonChaosDegenPulse",
+    "Value": {
+      "DisplayName": "Essence of Misery (Suggest: Corruption)",
+      "Color": {
+        "X": 0.53333336,
+        "Y": 0.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 78
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonGrab",
+    "Value": {
+      "DisplayName": "Essence of Envy (Suggest: Corruption)",
+      "Color": {
+        "X": 0.53333336,
+        "Y": 0.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 79
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonBuffToParentCasterCrit",
+    "Value": {
+      "DisplayName": "Essence of Scorn (Suggest: Corruption)",
+      "Color": {
+        "X": 0.53333336,
+        "Y": 0.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 80
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonSummonChaosGolem",
+    "Value": {
+      "DisplayName": "Essence of Dread (Suggest: Corruption)",
+      "Color": {
+        "X": 0.53333336,
+        "Y": 0.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 81
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonMadness1",
+    "Value": {
+      "DisplayName": "Essence of Hysteria",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 82
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonInsanity1",
+    "Value": {
+      "DisplayName": "Essence of Insanity",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 83
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonHorror1",
+    "Value": {
+      "DisplayName": "Essence of Horror",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 84
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonTerror1_",
+    "Value": {
+      "DisplayName": "Essence of Delirium",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 85
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonMeteorFirestorm",
+    "Value": {
+      "DisplayName": "Essence of Anguish",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 86
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonFirePulse",
+    "Value": {
+      "DisplayName": "Essence of Anger",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 87
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonColdPulse",
+    "Value": {
+      "DisplayName": "Essence of Hatred",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 88
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonLightningPulse",
+    "Value": {
+      "DisplayName": "Essence of Wrath",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 89
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonSummonOrbOfStormsDaemon",
+    "Value": {
+      "DisplayName": "Essence of Torment",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 90
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonSummonGhost",
+    "Value": {
+      "DisplayName": "Essence of Fear",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 91
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonFrostBomb",
+    "Value": {
+      "DisplayName": "Essence of Suffering",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 92
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonBuffToParentCasterDodge",
+    "Value": {
+      "DisplayName": "Essence of Zeal",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 93
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonBuffToParentCasterDamageTaken",
+    "Value": {
+      "DisplayName": "Essence of Loathing",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 94
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonTotemGroundEffectVortex",
+    "Value": {
+      "DisplayName": "Essence of Sorrow",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 95
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonSummonKaruiSpirit",
+    "Value": {
+      "DisplayName": "Essence of Contempt",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 96
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonFireRuneTrap",
+    "Value": {
+      "DisplayName": "Essence of Rage",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 97
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonBloodProjectileDaemon",
+    "Value": {
+      "DisplayName": "Essence of Greed",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 98
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonSummonLivingCrystals",
+    "Value": {
+      "DisplayName": "Essence of Woe",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 99
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonSummonSpiders",
+    "Value": {
+      "DisplayName": "Essence of Doubt",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 100
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/EssenceDaemonTotemGroundEffectShocked",
+    "Value": {
+      "DisplayName": "Essence of Spite",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 101
+    }
+  },
+  {
+    "Key": "Metadata/NPC/Epilogue/Envoy",
+    "Value": {
+      "DisplayName": "The Envoy",
+      "Color": {
+        "X": 0.10675156,
+        "Y": 0.69387865,
+        "Z": 0.8378378,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 102
+    }
+  },
+  {
+    "Key": "Metadata/NPC/Missions/Wild/StrDexInt",
+    "Value": {
+      "DisplayName": "Zana",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 103
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/AtlasExiles/AtlasExile1",
+    "Value": {
+      "DisplayName": "Baran, The Crusader",
+      "Color": {
+        "X": 0.21176471,
+        "Y": 0.7058824,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 104
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/AtlasExiles/AtlasExile2_",
+    "Value": {
+      "DisplayName": "Veritania, The Redeemer ",
+      "Color": {
+        "X": 0.21176471,
+        "Y": 0.7058824,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 105
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/AtlasExiles/AtlasExile3",
+    "Value": {
+      "DisplayName": "Al-Hezmin, The Hunter",
+      "Color": {
+        "X": 0.21176471,
+        "Y": 0.7058824,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 106
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/AtlasExiles/AtlasExile4",
+    "Value": {
+      "DisplayName": "Drox, The Warlord ",
+      "Color": {
+        "X": 0.21176471,
+        "Y": 0.7058824,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 107
+    }
+  },
+  {
+    "Key": "Metadata/Chests/StrongBoxes/Strongbox",
+    "Value": {
+      "DisplayName": "Simple Strongbox",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 108
+    }
+  },
+  {
+    "Key": "Metadata/Chests/CopperChests/CopperChestEpic3",
+    "Value": {
+      "DisplayName": "Epic Chest",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": false,
+      "Priority": 109
+    }
+  },
+  {
+    "Key": "ExileDuelist1",
+    "Value": {
+      "DisplayName": "Exile Torr Olgosso",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 110
+    }
+  },
+  {
+    "Key": "ExileDuelist2",
+    "Value": {
+      "DisplayName": "Exile Armios Bell",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 111
+    }
+  },
+  {
+    "Key": "ExileDuelist4",
+    "Value": {
+      "DisplayName": "Exile Zacharie Desmarais",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 112
+    }
+  },
+  {
+    "Key": "ExileDuelist5",
+    "Value": {
+      "DisplayName": "Exile Oyra Ona",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 113
+    }
+  },
+  {
+    "Key": "ExileMarauder1",
+    "Value": {
+      "DisplayName": "Exile Jonah Unchained",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 114
+    }
+  },
+  {
+    "Key": "ExileMarauder2",
+    "Value": {
+      "DisplayName": "Exile Damoi Tui",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 115
+    }
+  },
+  {
+    "Key": "ExileMarauder3",
+    "Value": {
+      "DisplayName": "Exile Xandro Blooddrinker",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 116
+    }
+  },
+  {
+    "Key": "ExileMarauder5",
+    "Value": {
+      "DisplayName": "Exile Vickas Giantbone",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 117
+    }
+  },
+  {
+    "Key": "ExileMarauder6__",
+    "Value": {
+      "DisplayName": "Exile Bolt Brownfur",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 118
+    }
+  },
+  {
+    "Key": "ExileRanger1",
+    "Value": {
+      "DisplayName": "Exile Orra Greengate",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 119
+    }
+  },
+  {
+    "Key": "ExileRanger2",
+    "Value": {
+      "DisplayName": "Exile Thena Moga",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 120
+    }
+  },
+  {
+    "Key": "ExileRanger3",
+    "Value": {
+      "DisplayName": "Exile Antalie Napora",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 121
+    }
+  },
+  {
+    "Key": "ExileRanger5",
+    "Value": {
+      "DisplayName": "Exile Ailentia Rac",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 122
+    }
+  },
+  {
+    "Key": "ExileScion2",
+    "Value": {
+      "DisplayName": "Exile Augustina Solaria",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 123
+    }
+  },
+  {
+    "Key": "ExileScion3",
+    "Value": {
+      "DisplayName": "Exile Lael Furia",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 124
+    }
+  },
+  {
+    "Key": "ExileScion4",
+    "Value": {
+      "DisplayName": "Exile Vanth Agiel",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 125
+    }
+  },
+  {
+    "Key": "ExileShadow1_",
+    "Value": {
+      "DisplayName": "Exile Ion Darkshroud",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 126
+    }
+  },
+  {
+    "Key": "ExileShadow2",
+    "Value": {
+      "DisplayName": "Exile Ash Lessard",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 127
+    }
+  },
+  {
+    "Key": "ExileShadow4",
+    "Value": {
+      "DisplayName": "Exile Wilorin Demontamer",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 128
+    }
+  },
+  {
+    "Key": "ExileShadow5",
+    "Value": {
+      "DisplayName": "Exile Ulysses Morvant",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 129
+    }
+  },
+  {
+    "Key": "ExileTemplar1",
+    "Value": {
+      "DisplayName": "Exile Eoin Greyfur",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 130
+    }
+  },
+  {
+    "Key": "ExileTemplar2",
+    "Value": {
+      "DisplayName": "Exile Tinevin Highdove",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 131
+    }
+  },
+  {
+    "Key": "ExileTemplar4",
+    "Value": {
+      "DisplayName": "Exile Magnus Stonethorn",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 132
+    }
+  },
+  {
+    "Key": "ExileTemplar5",
+    "Value": {
+      "DisplayName": "Exile Aurelio Voidsinger",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 133
+    }
+  },
+  {
+    "Key": "ExileWitch1",
+    "Value": {
+      "DisplayName": "Exile Minara Anenima",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 134
+    }
+  },
+  {
+    "Key": "ExileWitch2",
+    "Value": {
+      "DisplayName": "Exile Igna Phoenix",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 135
+    }
+  },
+  {
+    "Key": "ExileWitch4",
+    "Value": {
+      "DisplayName": "Exile Dena Lorenni",
+      "Color": {
+        "X": 0.6,
+        "Y": 1.0,
+        "Z": 0.2,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 136
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedFisherman",
+    "Value": {
+      "DisplayName": "Tormented Illegal Fisherman",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 137
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedMartyr",
+    "Value": {
+      "DisplayName": "Tormented Martyr",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 138
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedThief",
+    "Value": {
+      "DisplayName": "Tormented Thief",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 139
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedCutthroat",
+    "Value": {
+      "DisplayName": "Tormented Cutthroat",
+      "Color": {
+        "X": 0.7764706,
+        "Y": 1.0,
+        "Z": 0.7764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 140
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedCharlatan",
+    "Value": {
+      "DisplayName": "Tormented Charlatan",
+      "Color": {
+        "X": 0.7764706,
+        "Y": 1.0,
+        "Z": 0.7764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 141
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedMutilator",
+    "Value": {
+      "DisplayName": "Tormented Mutilator",
+      "Color": {
+        "X": 0.7764706,
+        "Y": 1.0,
+        "Z": 0.7764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 142
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedNecromancer",
+    "Value": {
+      "DisplayName": "Tormented Necromancer",
+      "Color": {
+        "X": 0.7764706,
+        "Y": 1.0,
+        "Z": 0.7764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 143
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedPoisoner",
+    "Value": {
+      "DisplayName": "Tormented Poisoner",
+      "Color": {
+        "X": 0.7764706,
+        "Y": 1.0,
+        "Z": 0.7764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 144
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedRogue",
+    "Value": {
+      "DisplayName": "Tormented Rogue",
+      "Color": {
+        "X": 0.7764706,
+        "Y": 1.0,
+        "Z": 0.7764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 145
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedLibrarian",
+    "Value": {
+      "DisplayName": "Tormented Seditionist",
+      "Color": {
+        "X": 0.7764706,
+        "Y": 1.0,
+        "Z": 0.7764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 146
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedSmuggler",
+    "Value": {
+      "DisplayName": "Tormented Smuggler",
+      "Color": {
+        "X": 0.7764706,
+        "Y": 1.0,
+        "Z": 0.7764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 147
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedSpy",
+    "Value": {
+      "DisplayName": "Tormented Spy",
+      "Color": {
+        "X": 0.7764706,
+        "Y": 1.0,
+        "Z": 0.7764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 148
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedExperimenter",
+    "Value": {
+      "DisplayName": "Tormented Storm Cultist",
+      "Color": {
+        "X": 0.7764706,
+        "Y": 1.0,
+        "Z": 0.7764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 149
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedThug",
+    "Value": {
+      "DisplayName": "Tormented Thug",
+      "Color": {
+        "X": 0.7764706,
+        "Y": 1.0,
+        "Z": 0.7764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 150
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedCorrupter",
+    "Value": {
+      "DisplayName": "Tormented Vaal Cultist",
+      "Color": {
+        "X": 0.7764706,
+        "Y": 1.0,
+        "Z": 0.7764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 151
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedWarlord",
+    "Value": {
+      "DisplayName": "Tormented Warlord",
+      "Color": {
+        "X": 0.7764706,
+        "Y": 1.0,
+        "Z": 0.7764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 152
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedBlasphemer",
+    "Value": {
+      "DisplayName": "Tormented Blasphemer",
+      "Color": {
+        "X": 0.7764706,
+        "Y": 1.0,
+        "Z": 0.7764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 153
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedFreezer",
+    "Value": {
+      "DisplayName": "Tormented Aurora Cultist",
+      "Color": {
+        "X": 0.7764706,
+        "Y": 1.0,
+        "Z": 0.7764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 154
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedArsonist",
+    "Value": {
+      "DisplayName": "Tormented Arsonist",
+      "Color": {
+        "X": 0.7764706,
+        "Y": 1.0,
+        "Z": 0.7764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 155
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedEmbezzler",
+    "Value": {
+      "DisplayName": "Tormented Embezzler",
+      "Color": {
+        "X": 0.7764706,
+        "Y": 1.0,
+        "Z": 0.7764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 156
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedCannibal",
+    "Value": {
+      "DisplayName": "Tormented Cannibal",
+      "Color": {
+        "X": 0.7764706,
+        "Y": 1.0,
+        "Z": 0.7764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 157
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spirit/TormentedCounterfeiter",
+    "Value": {
+      "DisplayName": "Tormented Forger",
+      "Color": {
+        "X": 0.7764706,
+        "Y": 1.0,
+        "Z": 0.7764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 158
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar1",
+    "Value": {
+      "DisplayName": "Harbinger Avatar1",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 159
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar2",
+    "Value": {
+      "DisplayName": "Harbinger Avatar2",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 160
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar3_",
+    "Value": {
+      "DisplayName": "Harbinger Avatar3_",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 161
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar4",
+    "Value": {
+      "DisplayName": "Harbinger Avatar4",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 162
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar5",
+    "Value": {
+      "DisplayName": "Harbinger Avatar5",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 163
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar6",
+    "Value": {
+      "DisplayName": "Harbinger Avatar6",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 164
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar7",
+    "Value": {
+      "DisplayName": "Harbinger Avatar7",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 165
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar8",
+    "Value": {
+      "DisplayName": "Harbinger Avatar8",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 166
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar9",
+    "Value": {
+      "DisplayName": "Harbinger Avatar9",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 167
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar10",
+    "Value": {
+      "DisplayName": "Harbinger Avatar10",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 168
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar11",
+    "Value": {
+      "DisplayName": "Harbinger Avatar11",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 169
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar11Summoned_",
+    "Value": {
+      "DisplayName": "Harbinger Avatar11Summoned_",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 170
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar12",
+    "Value": {
+      "DisplayName": "Harbinger Avatar12",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 171
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar12Summoned",
+    "Value": {
+      "DisplayName": "Harbinger Avatar12Summoned",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 172
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar13",
+    "Value": {
+      "DisplayName": "Harbinger Avatar13",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 173
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar13Summoned",
+    "Value": {
+      "DisplayName": "Harbinger Avatar13Summoned",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 174
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar14",
+    "Value": {
+      "DisplayName": "Harbinger Avatar14",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 175
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar14Summoned",
+    "Value": {
+      "DisplayName": "Harbinger Avatar14Summoned",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 176
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar15",
+    "Value": {
+      "DisplayName": "Harbinger Avatar15",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 177
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar15Summoned",
+    "Value": {
+      "DisplayName": "Harbinger Avatar15Summoned",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 178
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar16",
+    "Value": {
+      "DisplayName": "Harbinger Avatar16",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 179
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar16Summoned",
+    "Value": {
+      "DisplayName": "Harbinger Avatar16Summoned",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 180
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar17",
+    "Value": {
+      "DisplayName": "Harbinger Avatar17",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 181
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar17Summoned",
+    "Value": {
+      "DisplayName": "Harbinger Avatar17Summoned",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 182
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar18",
+    "Value": {
+      "DisplayName": "Harbinger Avatar18",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 183
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar18Summoned",
+    "Value": {
+      "DisplayName": "Harbinger Avatar18Summoned",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 184
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar19",
+    "Value": {
+      "DisplayName": "Harbinger Avatar19",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 185
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar19Summoned",
+    "Value": {
+      "DisplayName": "Harbinger Avatar19Summoned",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 186
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar20",
+    "Value": {
+      "DisplayName": "Harbinger Avatar20",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 187
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar21",
+    "Value": {
+      "DisplayName": "Harbinger Avatar21",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 188
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar22",
+    "Value": {
+      "DisplayName": "Harbinger Avatar22",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 189
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar23",
+    "Value": {
+      "DisplayName": "Harbinger Avatar23",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 190
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar24_",
+    "Value": {
+      "DisplayName": "Harbinger Avatar24_",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 191
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar25",
+    "Value": {
+      "DisplayName": "Harbinger Avatar25",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 192
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar26",
+    "Value": {
+      "DisplayName": "Harbinger Avatar26",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 193
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar27",
+    "Value": {
+      "DisplayName": "Harbinger Avatar27",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 194
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar28",
+    "Value": {
+      "DisplayName": "Harbinger Avatar28",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 195
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar29",
+    "Value": {
+      "DisplayName": "Harbinger Avatar29",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 196
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar30",
+    "Value": {
+      "DisplayName": "Harbinger Avatar30",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 197
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar31",
+    "Value": {
+      "DisplayName": "Harbinger Avatar31",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 198
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar32",
+    "Value": {
+      "DisplayName": "Harbinger Avatar32",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 199
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar33",
+    "Value": {
+      "DisplayName": "Harbinger Avatar33",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 200
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar34",
+    "Value": {
+      "DisplayName": "Harbinger Avatar34",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 201
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Avatar/Avatar35",
+    "Value": {
+      "DisplayName": "Harbinger Avatar35",
+      "Color": {
+        "X": 0.2,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 202
+    }
+  },
+  {
+    "Key": "Metadata/Chests/PerandusChests/PerandusManorLostTreasureChest",
+    "Value": {
+      "DisplayName": "Grand Perandus Vault",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 203
+    }
+  },
+  {
+    "Key": "Metadata/Chests/PerandusChests/PerandusManorDivinationCardsChest",
+    "Value": {
+      "DisplayName": "Cadiro's Catalogue",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 204
+    }
+  },
+  {
+    "Key": "Metadata/Chests/PerandusChests/PerandusManorJewelryChest",
+    "Value": {
+      "DisplayName": "Cadiro's Jewellery Box",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 205
+    }
+  },
+  {
+    "Key": "Metadata/Chests/PerandusChests/PerandusManorMapsChest",
+    "Value": {
+      "DisplayName": "Cadiro's Archive",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 206
+    }
+  },
+  {
+    "Key": "Metadata/Chests/PerandusChests/PerandusManorCurrencyChest",
+    "Value": {
+      "DisplayName": "Cadiro's Treasury",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 207
+    }
+  },
+  {
+    "Key": "Metadata/Chests/PerandusChests/PerandusManorUniqueChest",
+    "Value": {
+      "DisplayName": "Cadiro's Locker",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 208
+    }
+  },
+  {
+    "Key": "Metadata/Chests/PerandusChests/PerandusChestFishing",
+    "Value": {
+      "DisplayName": "Perandus Tackle Box",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 209
+    }
+  },
+  {
+    "Key": "Metadata/Chests/PerandusChests/PerandusChestMaps",
+    "Value": {
+      "DisplayName": "Perandus Archive",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 210
+    }
+  },
+  {
+    "Key": "Metadata/Chests/PerandusChests/PerandusChestUniqueItem",
+    "Value": {
+      "DisplayName": "Perandus Locker",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 211
+    }
+  },
+  {
+    "Key": "Metadata/Chests/PerandusChests/PerandusChestKeepersOfTheTrove",
+    "Value": {
+      "DisplayName": "Perandus Trove",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 212
+    }
+  },
+  {
+    "Key": "Metadata/Chests/PerandusChests/PerandusChestDivinationCards",
+    "Value": {
+      "DisplayName": "Perandus Catalogue",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 213
+    }
+  },
+  {
+    "Key": "Metadata/Chests/PerandusChests/PerandusChestInventory",
+    "Value": {
+      "DisplayName": "Perandus Wardrobe",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 214
+    }
+  },
+  {
+    "Key": "Metadata/Chests/PerandusChests/PerandusChestCurrency",
+    "Value": {
+      "DisplayName": "Perandus Treasury",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 215
+    }
+  },
+  {
+    "Key": "Metadata/Chests/PerandusChests/PerandusChestGems",
+    "Value": {
+      "DisplayName": "Perandus Safe",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 216
+    }
+  },
+  {
+    "Key": "Metadata/Chests/PerandusChests/PerandusChestJewellery",
+    "Value": {
+      "DisplayName": "Perandus Jewellery Box",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 217
+    }
+  },
+  {
+    "Key": "Metadata/Chests/PerandusChests/PerandusChestCoins",
+    "Value": {
+      "DisplayName": "Perandus Coffer",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 218
+    }
+  },
+  {
+    "Key": "Metadata/Chests/PerandusChests/PerandusChestQuantity",
+    "Value": {
+      "DisplayName": "Perandus Hoard",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 219
+    }
+  },
+  {
+    "Key": "Metadata/Chests/PerandusChests/PerandusChestRarity",
+    "Value": {
+      "DisplayName": "Perandus Cache",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 220
+    }
+  },
+  {
+    "Key": "Metadata/Chests/PerandusChests/PerandusChestStandard",
+    "Value": {
+      "DisplayName": "Perandus Chest",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 221
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss8",
+    "Value": {
+      "DisplayName": "Meritania, Vault Binder",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 222
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss7",
+    "Value": {
+      "DisplayName": "Arinea, Vault Binder",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 223
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss6",
+    "Value": {
+      "DisplayName": "Rothus, Vault Binder",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 224
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss5_",
+    "Value": {
+      "DisplayName": "Anaveli, Vault Binder",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 225
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss4",
+    "Value": {
+      "DisplayName": "Artensia, Vault Binder",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 226
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss3",
+    "Value": {
+      "DisplayName": "Eiphirio, Vault Binder",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 227
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss2",
+    "Value": {
+      "DisplayName": "Otairo, Vault Binder",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 228
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardSecondaryBoss1",
+    "Value": {
+      "DisplayName": "Sutrus, Vault Binder",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 229
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardSupport4",
+    "Value": {
+      "DisplayName": "Percia, Indebted Poacher",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 230
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardSupport3",
+    "Value": {
+      "DisplayName": "Vera, Indebted Aristocrat",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 231
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardSupport2",
+    "Value": {
+      "DisplayName": "Marius, Indebted Smuggler",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 232
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardSupport1",
+    "Value": {
+      "DisplayName": "Liana, Indebted Peasant",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 233
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardBasic5",
+    "Value": {
+      "DisplayName": "Belatra, Hired Assassin",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 234
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardBasic4",
+    "Value": {
+      "DisplayName": "Luthis, Bounty Hunter",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 235
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardBasic3",
+    "Value": {
+      "DisplayName": "Kuto, Hired Muscle",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 236
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardBasic2",
+    "Value": {
+      "DisplayName": "Hortus, Knee Breaker",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 237
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardBasic1",
+    "Value": {
+      "DisplayName": "Celona, Vault Sentry",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 238
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardMapBoss7",
+    "Value": {
+      "DisplayName": "Rheniot, Servant of Prospero",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 239
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardMapBoss6",
+    "Value": {
+      "DisplayName": "Argient, Servant of Prospero",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 240
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardMapBoss5",
+    "Value": {
+      "DisplayName": "Pallias, Servant of Prospero",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 241
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardMapBoss4Clone",
+    "Value": {
+      "DisplayName": "Osmea, Servant of Prospero",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 242
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardMapBoss4",
+    "Value": {
+      "DisplayName": "Osmea, Servant of Prospero",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 243
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardMapBoss3",
+    "Value": {
+      "DisplayName": "Rhodion, Servant of Prospero",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 244
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardMapBoss2",
+    "Value": {
+      "DisplayName": "Auriot, Prospero's Furnace Guardian",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 245
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Perandus/PerandusGuardMapBoss1",
+    "Value": {
+      "DisplayName": "Platinia, Servant of Prospero",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 246
+    }
+  },
+  {
+    "Key": "Metadata/NPC/League/Perandus/CadiroPortal",
+    "Value": {
+      "DisplayName": "Cadiro8",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 247
+    }
+  },
+  {
+    "Key": "Metadata/NPC/League/Perandus/CadiroGoldPile",
+    "Value": {
+      "DisplayName": "Cadiro7",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 248
+    }
+  },
+  {
+    "Key": "audio/dialogue/npc/cadiro",
+    "Value": {
+      "DisplayName": "Cadiro6",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 249
+    }
+  },
+  {
+    "Key": "Art/Textures/NPC/Cadiro/PeranduscsPerandussn.mat",
+    "Value": {
+      "DisplayName": "Cadiro6",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 250
+    }
+  },
+  {
+    "Key": "Art/Models/NPC/Cadiro/rig.amd",
+    "Value": {
+      "DisplayName": "Cadiro5",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 251
+    }
+  },
+  {
+    "Key": "Art/Models/NPC/Cadiro/rig_d6b5e300.smd",
+    "Value": {
+      "DisplayName": "Cadiro4",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 252
+    }
+  },
+  {
+    "Key": "Art/Models/NPC/Cadiro/Perandus.sm",
+    "Value": {
+      "DisplayName": "Cadiro3",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 253
+    }
+  },
+  {
+    "Key": "Metadata/NPC/League/Perandus/Cadiro",
+    "Value": {
+      "DisplayName": "Cadiro",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 254
+    }
+  },
+  {
+    "Key": "Metadata/NPC/Missions/HelenaClaim",
+    "Value": {
+      "DisplayName": "Unlockable Hideout",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 255
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/ZombieBoss/ZombieBossHillockSpecialEvent_",
+    "Value": {
+      "DisplayName": "Uber Hillock",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 256
+    }
+  },
+  {
+    "Key": "Metadata/QuestObjects/Labyrinth/LabyrinthTrialPortal",
+    "Value": {
+      "DisplayName": "Labyrinth Trial",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.6,
+        "Z": 0.4,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 257
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Labyrinth/Objects/GoldenChest",
+    "Value": {
+      "DisplayName": "Golden Key Chest",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.84313726,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 258
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthTrinketChest",
+    "Value": {
+      "DisplayName": "Izaro Trinket",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.8235294,
+        "Z": 0.8235294,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 259
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Labyrinth/Objects/LabyrinthDarkshrineHidden",
+    "Value": {
+      "DisplayName": "Dark shrine",
+      "Color": {
+        "X": 0.0,
+        "Y": 0.5019608,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 260
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Labyrinth/Objects/SecretPassage",
+    "Value": {
+      "DisplayName": "Secret Passage",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 261
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthTreasureKey",
+    "Value": {
+      "DisplayName": "Curious Lock Box",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 262
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthReward0Currency",
+    "Value": {
+      "DisplayName": "Low Currency Chest",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 263
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthReward0CurrencyQuality",
+    "Value": {
+      "DisplayName": "High Currency Chest",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 264
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthRewardDangerCurrency",
+    "Value": {
+      "DisplayName": "Danger Currency Chest",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.6,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 265
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthRewardDangerCurrencyQuality",
+    "Value": {
+      "DisplayName": "Danger Quality Currency Chest",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 266
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthRewardDangerUnique",
+    "Value": {
+      "DisplayName": "Danger Unique Chest",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 267
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthRewardDangerDivination",
+    "Value": {
+      "DisplayName": "Danger Divination Chest",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 268
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthRewardDangerJewelry",
+    "Value": {
+      "DisplayName": "Danger Jewelry",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.8235294,
+        "Z": 0.8235294,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 269
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthRewardDangerSockets",
+    "Value": {
+      "DisplayName": "Danger Socketed",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.8235294,
+        "Z": 0.8235294,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 270
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthRewardDangerSkillGems",
+    "Value": {
+      "DisplayName": "Danger Skill Gems",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 271
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthRewardDangerCorruptedVaal",
+    "Value": {
+      "DisplayName": "Danger Vaal",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.8235294,
+        "Z": 0.8235294,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 272
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthRewardDangerGeneric",
+    "Value": {
+      "DisplayName": "Danger Generic",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.8235294,
+        "Z": 0.8235294,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 273
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Labyrinth/Objects/SilverChest",
+    "Value": {
+      "DisplayName": "Silver Key Lock Box",
+      "Color": {
+        "X": 0.9490196,
+        "Y": 0.9490196,
+        "Z": 0.9490196,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 274
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthSpecificUnique",
+    "Value": {
+      "DisplayName": "Intricate Locker",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 275
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthRewardSilverCurrency",
+    "Value": {
+      "DisplayName": "Silver Currency Chest",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 276
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthRewardSilverCurrencyQuality",
+    "Value": {
+      "DisplayName": "Silver Currency Quality Chest",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 277
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthRewardSilverJewelryUnique",
+    "Value": {
+      "DisplayName": "Silver Jewelry Unique Chest",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 278
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthRewardSilverDivination",
+    "Value": {
+      "DisplayName": "Silver Divination Chest",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 279
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthRewardSilverUnique1",
+    "Value": {
+      "DisplayName": "Silver Unique Chest 1",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 280
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthRewardSilverUnique2",
+    "Value": {
+      "DisplayName": "Silver Unique Chest 2",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 281
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthRewardSilverUnique3",
+    "Value": {
+      "DisplayName": "Silver Unique Chest 3",
+      "Color": {
+        "X": 0.8235294,
+        "Y": 0.45490196,
+        "Z": 0.1764706,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 282
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthRewardSilverSkillGems",
+    "Value": {
+      "DisplayName": "Silver Skill Gems",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 283
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthRewardSilverCorruptedVaal",
+    "Value": {
+      "DisplayName": "Silver Corrupted Chest",
+      "Color": {
+        "X": 1.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 284
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthRewardSilverJewelryJewelry",
+    "Value": {
+      "DisplayName": "Silver Jewelry Chest",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 285
+    }
+  },
+  {
+    "Key": "Metadata/Chests/Labyrinth/LabyrinthRewardSilverJewelryJewels",
+    "Value": {
+      "DisplayName": "Silver Jewels Chest",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 286
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Labyrinth/IzaroPortalCold",
+    "Value": {
+      "DisplayName": "Portals, Don't Kill",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 287
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/FireElemental/FireElementalIzaro",
+    "Value": {
+      "DisplayName": "Essences, Don't Kill",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 288
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Labyrinth/Objects/ChargeDisruptors/IzaroDisruptor",
+    "Value": {
+      "DisplayName": "Charge Disrupter's, Gain At Least 10 Charges",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 289
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/PopUpTrap/LabyrinthBossPylonReduceArmour",
+    "Value": {
+      "DisplayName": "Fonts, Don't Kill",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 290
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Labyrinth/Objects/ToggleStatues/EmpowerStatue1",
+    "Value": {
+      "DisplayName": "Conduits, Don't Click",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 291
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Statue/IzaroGargoyleCold",
+    "Value": {
+      "DisplayName": "Gargoyles, Don't Kill",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 292
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Statue/IzaroChronosStatueCold",
+    "Value": {
+      "DisplayName": "Idols, All Must Gain Full life",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 293
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Labyrinth/LabyrinthLieutenantSkeletonMelee",
+    "Value": {
+      "DisplayName": "Lieutenants, Don't Kill",
+      "Color": {
+        "X": 0.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 294
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/GargoyleBoss/GargoyleBoss",
+    "Value": {
+      "DisplayName": "Argus",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 295
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Squid/SquidBossSideArea",
+    "Value": {
+      "DisplayName": "The All-seeing Eye",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 296
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Goatman/GoatmanLeapBossSideArea",
+    "Value": {
+      "DisplayName": "Konu, Maker of Wind",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 297
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/GhostPirates/GhostPirateBossSideArea",
+    "Value": {
+      "DisplayName": "Coniraya, Shadow of Malice",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 298
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/DemonModular/DemonModularElementsBossSideArea",
+    "Value": {
+      "DisplayName": "Atziri's Pride",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 299
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Goatman/GoatmanShamanBossSideArea",
+    "Value": {
+      "DisplayName": "Sheaq, Maker of Floods",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 300
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Skeleton/SkeletonMeleeLargeBossSideArea",
+    "Value": {
+      "DisplayName": "Ossecati, Boneshaper",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 301
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/RootSpiders/RootSpiderBossSideArea",
+    "Value": {
+      "DisplayName": "Kamaq, Soilmaker",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 302
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Kiweth/KiwethBossSideArea",
+    "Value": {
+      "DisplayName": "Inti of the Blood Moon",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 303
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/incaminion/FragmentBossSideArea",
+    "Value": {
+      "DisplayName": "Shrapnelbearer",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 304
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Snake/SnakeRoboBossSideArea",
+    "Value": {
+      "DisplayName": "Wiraqucha, Ancient Guardian",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 305
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/DemonFemale/WhipDemonBossSideArea",
+    "Value": {
+      "DisplayName": "Cava, Artist of Pain",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 306
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Pyromaniac/PyromaniacBossSideArea",
+    "Value": {
+      "DisplayName": "Curator Miem",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 307
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/BloodChieftain/MonkeyChiefBossSideArea",
+    "Value": {
+      "DisplayName": "Simi, the Nature Touched",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 308
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/InsectSpawner/CarrionQueenBossSideArea",
+    "Value": {
+      "DisplayName": "The Sunburst Queen",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 309
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Totems/TotemBossSideArea",
+    "Value": {
+      "DisplayName": "M'gaska, the Living Pyre",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 310
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spiders/SpiderBossSideArea",
+    "Value": {
+      "DisplayName": "Cintiq, the Inescapable",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 311
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Snake/SnakeScorpionBossSideArea",
+    "Value": {
+      "DisplayName": "Thornrunner",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 312
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Cannibal/CannibalBossSideArea",
+    "Value": {
+      "DisplayName": "Perquil the Lucky",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 313
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Skeletons/ConstructMeleeBossSideArea",
+    "Value": {
+      "DisplayName": "Haviri, Vaal Metalsmith",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 314
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Skeletons/ConstructRangedBossSideArea",
+    "Value": {
+      "DisplayName": "Kutec, Vaal Fleshsmith",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 315
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/AnimatedItem/AnimatedArmourBossSideArea",
+    "Value": {
+      "DisplayName": "Shadow of Vengeance",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 316
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/DemonBosses/DemonBoss1/Demon1BossSideArea",
+    "Value": {
+      "DisplayName": "Beheader Ataguchu",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 317
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/DemonBosses/DemonBoss2/Demon2BossSideArea",
+    "Value": {
+      "DisplayName": "Wiraq, the Impaler",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 318
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/DemonBosses/DemonBoss3/Demon3BossSideArea",
+    "Value": {
+      "DisplayName": "Ch'aska, Maker of Rain",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 319
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/SandSpitterEmerge/SandSpitterBossSideArea",
+    "Value": {
+      "DisplayName": "Mother of the Hive",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 320
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Seawitch/SeaWitchBossSideArea",
+    "Value": {
+      "DisplayName": "Rima, Deep Temptress",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 321
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/SandLeaper/SandLeaperBossSideArea",
+    "Value": {
+      "DisplayName": "Quetzerxi",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 322
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/SkeletonSoldier/SkeletonSoldierMeleeBossSideArea",
+    "Value": {
+      "DisplayName": "Calxipher",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 323
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Banshee/VaalSideAreaBoss8",
+    "Value": {
+      "DisplayName": "Iorphia, Dream Eater",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 324
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/VaalSideAreaBosses/VaalSideAreaBoss1",
+    "Value": {
+      "DisplayName": "Huitepa the Blind",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 325
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/ZombieDismember/Blackguard/BlackguardZombieBossSideArea",
+    "Value": {
+      "DisplayName": "Commander of Flesh",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 326
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Cannibal/CannibalBossSideAreaLowbie",
+    "Value": {
+      "DisplayName": "Perquil the Lucky",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 327
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Squid/SquidBossSideAreaLowbie",
+    "Value": {
+      "DisplayName": "The All-seeing Eye",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 328
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/WaterSpiral/WaterSpiralBossSideArea",
+    "Value": {
+      "DisplayName": "Torrent of Fear",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 329
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/VaalSideAreaBosses/VaalSideAreaBoss3_",
+    "Value": {
+      "DisplayName": "Anacuacotli, Death's Worship",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 330
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/VaalSideAreaBosses/VaalSideAreaBoss2",
+    "Value": {
+      "DisplayName": "Daluatti, Stoneraiser",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 331
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/StatueFingerMage/VaalSideAreaBoss7",
+    "Value": {
+      "DisplayName": "Exartze, the Woven Stone",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 332
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/VaalSideAreaBosses/VaalSideAreaBoss5",
+    "Value": {
+      "DisplayName": "Guraq, Daylight's Blade",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 333
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/SandSpitterEmerge/SandSpitterBossSideAreaLowbie",
+    "Value": {
+      "DisplayName": "Mother of the Hive",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 334
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Axis/AxisCasterBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Evocata Apocalyptica",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 335
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Axis/AxisExperimenterBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion, Boss Docere Incarnatis",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 336
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Axis/AxisSoldierBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Corrector Draconides",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 337
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Bandits/BanditMeleeBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss Balus Stoneskull",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 338
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Bandits/BanditBowBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Kall Foxfly",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 339
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Beasts/BeastBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Marrowcrush",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 340
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Rhoas/RhoaBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, The Cadaver Bull",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 341
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/BloodChieftain/BloodChieftainBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Junglemare",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 342
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/BloodElemental/BloodElementalBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, The Sanguine Wave",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 343
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Cannibal/CannibalMaleBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Graveblood",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 344
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Cannibal/CannibalFemaleBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Nighteater",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 345
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Undying/CityStalkerMaleBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, The Book Burner",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 346
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Undying/CityStalkerFemaleBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, The Bolt Juggler",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 347
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/DemonFemale/DemonFemaleBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Avatar of Pain",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 348
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/DemonModular/DemonModularBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Rancor",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 349
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/DemonModular/DemonFemaleRangedBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Hatespitter",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 350
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/MossMonster/FireMonsterBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Bluntslag",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 351
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Monkeys/FlameBearerBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, The Revenant",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 352
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/incaminion/FragmentBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Judgement Apparatus",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 353
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Frog/FrogBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Spinesnap",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 354
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/GemMonster/GemFrogBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Genesis Paradisae",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 355
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Goatman/GoatmanBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Death from Above",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 356
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Goatman/GoatmanShamanBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Guardian of the Mound",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 357
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Grappler/GrapplerBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Wonderwalker",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 358
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Guardians/GuardianFireBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, The Raging Mask",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 359
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Guardians/GuardianLightningBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, The Teetering Mask",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 360
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Guardians/GuardianHeadFireBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, The Furious Mask",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 361
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Guardians/GuardianHeadColdBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, The Callous Mask",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 362
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Guardians/GuardianHeadLightningBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, The Capricious Mask",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 363
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/GemMonster/IguanaBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Alpha Paradisae",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 364
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/InsectSpawner/CarrionQueenBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Mother of the Swarm",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 365
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Kiweth/KiwethBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Deathflutter",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 366
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Lion/LionBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Bladetooth",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 367
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/MossMonster/MossMonsterBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Granitecrush",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 368
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Necromancer/NecromancerBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Corpsestitch",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 369
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Pyromaniac/PyromaniacBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, The Firestarter",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 370
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/RootSpiders/RootSpiderBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Wrigglechaw",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 371
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/SandSpitterEmerge/SandSpitterBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Blinkflame",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 372
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Seawitch/SeaWitchBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, The Duchess",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 373
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/ShieldCrabs/ShieldCrabBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Shivershell",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 374
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/SandSpitters/SandSpitterFromCrabBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Shivershell",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 375
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Beasts/BeastSkeletonBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Mammothcage",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 376
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Skeletons/SkeletonElementalBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Harbinger of Elements",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 377
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Skeletons/SkeletonBowBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Nightsight",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 378
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Snake/SnakeMeleeBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Tailsinger",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 379
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Snake/SnakeRangedBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Razorleaf",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 380
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spawn/SpawnBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Stranglecreep",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 381
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spiders/SpiderBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Pewterfang",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 382
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spikers/SpikerBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Bladeback Guardian",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 383
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Squid/SquidBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Strangledrift",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 384
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Totems/TotemBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Jikeji",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 385
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Rhoas/RhoaUndeadBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Ghostram",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 386
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Undying/UndyingBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Stranglecrawl",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 387
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/WaterElemental/WaterElementalBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Mirageblast",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 388
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/ZombieDismember/ZombieBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, The Walking Waste",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 389
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Monkeys/MonkeyBossInvasion1",
+    "Value": {
+      "DisplayName": "Invasion Boss, Blood Stasis",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 390
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Monkeys/MonkeyBossInvasion2",
+    "Value": {
+      "DisplayName": "Invasion Boss, Blood Morpher",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 391
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Skeletons/SkeletonMeleeBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Glassmaul",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 392
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Skeletons/SkeletonLargeBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Grath",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 393
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Skeletons/ConstructBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, The Spiritless",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 394
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/GhostPirates/GhostPirateBossInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Droolscar",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 395
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/DemonFemale/WhipDemonBossSideAreaInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Cava, Artist of Pain",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 396
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/DemonBosses/DemonBoss3/Demon3BossSideAreaInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Ch'aska, Maker of Rain",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 397
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Snake/SnakeScorpionBossSideAreaInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Thornrunner",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 398
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/GhostPirates/GhostPirateBossSideAreaInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Coniraya, Shadow of Malice",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 399
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Cannibal/CannibalBossSideAreaInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Perquil the Lucky",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 400
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Snake/SnakeRoboBossSideAreaInvasion_",
+    "Value": {
+      "DisplayName": "Invasion Boss, Wiraqucha, Ancient Guardian",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 401
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/DemonBosses/DemonBoss2/Demon2BossSideAreaInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Wiraq, the Impaler",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 402
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/InsectSpawner/CarrionQueenBossSideAreaInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, The Sunburst Queen",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 403
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Totems/TotemBossSideAreaInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, M'gaska, the Living Pyre",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 404
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Skeletons/ConstructRangedBossSideAreaInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Kutec, Vaal Fleshsmith",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 405
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Spiders/SpiderBossSideAreaInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Cintiq, the Inescapable",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 406
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Pyromaniac/PyromaniacBossSideAreaInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Curator Miem",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 407
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Goatman/GoatmanShamanBossSideAreaInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Sheaq, Maker of Floods",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 408
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/DemonModular/DemonModularElementsBossSideAreaInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Atziri's Pride",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 409
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Seawitch/SeaWitchBossSideAreaInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Rima, Deep Temptress",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 410
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Goatman/GoatmanLeapBossSideAreaInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Konu, Maker of Wind",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 411
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Kiweth/KiwethBossSideAreaInvasion",
+    "Value": {
+      "DisplayName": "Invasion Boss, Inti of the Blood Moon",
+      "Color": {
+        "X": 0.8627451,
+        "Y": 0.078431375,
+        "Z": 0.23529412,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 412
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbLightningGrunt1",
+    "Value": {
+      "DisplayName": "Brinerot Raider",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 413
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbLightningGrunt2",
+    "Value": {
+      "DisplayName": "Brinerot Raider",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 414
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbLightningGrunt3",
+    "Value": {
+      "DisplayName": "Brinerot Raider",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 415
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbLightningGrunt4",
+    "Value": {
+      "DisplayName": "Brinerot Raider",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 416
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbLightningGrunt5",
+    "Value": {
+      "DisplayName": "Brinerot Raider",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 417
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbLightningGrunt6",
+    "Value": {
+      "DisplayName": "Brinerot Raider",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 418
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbLightningSupport1",
+    "Value": {
+      "DisplayName": "Brinerot Soothesayer",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 419
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbLightningSupport2",
+    "Value": {
+      "DisplayName": "Brinerot Soothesayer",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 420
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbLightningSupport3",
+    "Value": {
+      "DisplayName": "Brinerot Soothesayer",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 421
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbLightningSupport4",
+    "Value": {
+      "DisplayName": "Brinerot Soothesayer",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 422
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbLightningSupport4Clone",
+    "Value": {
+      "DisplayName": "Brinerot Soothesayer",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 423
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbLightningElite1",
+    "Value": {
+      "DisplayName": "Brinerot Stormhand",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 424
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbLightningElite2",
+    "Value": {
+      "DisplayName": "Brinerot Stormhand",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 425
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbLightningElite3",
+    "Value": {
+      "DisplayName": "Brinerot Stormhand",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 426
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbLightningLeader1",
+    "Value": {
+      "DisplayName": "Musky \"Two-Eyes\" Grenn",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 427
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbLightningLeader2",
+    "Value": {
+      "DisplayName": "Susara, Siren of Pondium",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 428
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbLightningLeader3",
+    "Value": {
+      "DisplayName": "Lussi \"Rotmother\" Roth",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 429
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbColdGrunt1",
+    "Value": {
+      "DisplayName": "Mutewind Wildrunner",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 430
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbColdGrunt2",
+    "Value": {
+      "DisplayName": "Mutewind Wildrunner",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 431
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbColdGrunt3",
+    "Value": {
+      "DisplayName": "Mutewind Wildrunner",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 432
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbColdGrunt4",
+    "Value": {
+      "DisplayName": "Mutewind Wildrunner",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 433
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbColdGrunt5",
+    "Value": {
+      "DisplayName": "Mutewind Wildrunner",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 434
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbColdGrunt6",
+    "Value": {
+      "DisplayName": "Mutewind Wildrunner",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 435
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbColdGrunt7",
+    "Value": {
+      "DisplayName": "Mutewind Wildrunner",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 436
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbColdLynx1",
+    "Value": {
+      "DisplayName": "Mutewind Lynx",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 437
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbColdSupport1",
+    "Value": {
+      "DisplayName": "Mutewind Hexbinder",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 438
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbColdSupport2",
+    "Value": {
+      "DisplayName": "Mutewind Hexbinder",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 439
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbColdSupport3",
+    "Value": {
+      "DisplayName": "Mutewind Hexbinder",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 440
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbColdSupport4",
+    "Value": {
+      "DisplayName": "Mutewind Hexbinder",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 441
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbColdElite1",
+    "Value": {
+      "DisplayName": "Mutewind Snow-singer",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 442
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbColdElite2",
+    "Value": {
+      "DisplayName": "Mutewind Snow-singer",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 443
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbColdElite3",
+    "Value": {
+      "DisplayName": "Mutewind Snow-singer",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 444
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbColdElite4",
+    "Value": {
+      "DisplayName": "Mutewind Snow-singer",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 445
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbColdElite4Clone",
+    "Value": {
+      "DisplayName": "Mutewind Snow-singer",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 446
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbColdLeader1",
+    "Value": {
+      "DisplayName": "Yorishi, Aurora-sage",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 447
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbColdLeader2",
+    "Value": {
+      "DisplayName": "Jeinei Yuushu",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 448
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbColdLeader2Clone",
+    "Value": {
+      "DisplayName": "Jeinei Yuushu",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 449
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbColdLeader3",
+    "Value": {
+      "DisplayName": "Otesha, the Giantslayer",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 450
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbFireGrunt1",
+    "Value": {
+      "DisplayName": "Redblade Skullbreaker",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 451
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbFireGrunt2_",
+    "Value": {
+      "DisplayName": "Redblade Skullbreaker",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 452
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbFireGrunt3",
+    "Value": {
+      "DisplayName": "Redblade Skullbreaker",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 453
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbFireGrunt4",
+    "Value": {
+      "DisplayName": "Redblade Skullbreaker",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 454
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbFireGrunt5",
+    "Value": {
+      "DisplayName": "Redblade Skullbreaker",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 455
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbFireGrunt6_",
+    "Value": {
+      "DisplayName": "Redblade Skullbreaker",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 456
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbFireSupport1",
+    "Value": {
+      "DisplayName": "Redblade Flamelord",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 457
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbFireSupport2",
+    "Value": {
+      "DisplayName": "Redblade Flamelord",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 458
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbFireSupport3",
+    "Value": {
+      "DisplayName": "Redblade Flamelord",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 459
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbFireSupport4",
+    "Value": {
+      "DisplayName": "Redblade Flamelord",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 460
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbFireElite1",
+    "Value": {
+      "DisplayName": "Redblade Warmonger",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 461
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbFireElite2_",
+    "Value": {
+      "DisplayName": "Redblade Warmonger",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 462
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbFireElite3",
+    "Value": {
+      "DisplayName": "Redblade Warmonger",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 463
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbFireElite4",
+    "Value": {
+      "DisplayName": "Redblade Warmonger",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 464
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbFireLeader1",
+    "Value": {
+      "DisplayName": "Uruk Baleh",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 465
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbFireLeader2",
+    "Value": {
+      "DisplayName": "El'Abin, Bloodeater",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 466
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbFireLeader3",
+    "Value": {
+      "DisplayName": "Leli Goya, Daughter of Ash",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 467
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbFireLeader4",
+    "Value": {
+      "DisplayName": "Bin'aia, Crimson Rain",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 468
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Skeletons/WbLightningEliteSummon1",
+    "Value": {
+      "DisplayName": "Thunder Guardian",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 469
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Skeletons/WbLightningEliteSummon2",
+    "Value": {
+      "DisplayName": "Flayed Archer",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 470
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Skeletons/WbLightningEliteSummon3",
+    "Value": {
+      "DisplayName": "Thunder Champion",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 471
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Skeletons/WbSkeletonMinionMelee",
+    "Value": {
+      "DisplayName": "Risen Legionnaire",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 472
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Skeletons/WbSkeletonMinionRanged",
+    "Value": {
+      "DisplayName": "Risen Archer",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 473
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Skeletons/WbSkeletonMinionCasterFire",
+    "Value": {
+      "DisplayName": "Risen Battlemage",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 474
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Skeletons/WbSkeletonMinionCasterCold",
+    "Value": {
+      "DisplayName": "Risen Battlemage",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 475
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Skeletons/WbSkeletonMinionCasterLightning",
+    "Value": {
+      "DisplayName": "Risen Battlemage",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 476
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbChaosLeader1",
+    "Value": {
+      "DisplayName": "Rama, The Kinslayer",
+      "Color": {
+        "X": 0.21176471,
+        "Y": 0.7058824,
+        "Z": 0.7058824,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 477
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbChaosLeader2",
+    "Value": {
+      "DisplayName": "Kalria, The Fallen",
+      "Color": {
+        "X": 0.21176471,
+        "Y": 0.7058824,
+        "Z": 0.7058824,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 478
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbChaosLeader2Skeleton",
+    "Value": {
+      "DisplayName": "Kalria, The Risen",
+      "Color": {
+        "X": 0.21176471,
+        "Y": 0.7058824,
+        "Z": 0.7058824,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 479
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbChaosLeader3",
+    "Value": {
+      "DisplayName": "Invari, The Bloodshaper",
+      "Color": {
+        "X": 0.21176471,
+        "Y": 0.7058824,
+        "Z": 0.7058824,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 480
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbChaosLeader4",
+    "Value": {
+      "DisplayName": "Lokan, The Deceiver",
+      "Color": {
+        "X": 0.21176471,
+        "Y": 0.7058824,
+        "Z": 0.7058824,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 481
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbChaosLeader4Minion",
+    "Value": {
+      "DisplayName": "Lokan, The Deceiver",
+      "Color": {
+        "X": 0.21176471,
+        "Y": 0.7058824,
+        "Z": 0.7058824,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 482
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbChaosLeader5",
+    "Value": {
+      "DisplayName": "Marchak, The Betrayer",
+      "Color": {
+        "X": 0.21176471,
+        "Y": 0.7058824,
+        "Z": 0.7058824,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 483
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbChaosLeader6",
+    "Value": {
+      "DisplayName": "Berrots, The Breaker",
+      "Color": {
+        "X": 0.21176471,
+        "Y": 0.7058824,
+        "Z": 0.7058824,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 484
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbChaosLeader7",
+    "Value": {
+      "DisplayName": "Vessider, The Unrivaled",
+      "Color": {
+        "X": 0.21176471,
+        "Y": 0.7058824,
+        "Z": 0.7058824,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 485
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Wb/WbChaosLeader8",
+    "Value": {
+      "DisplayName": "Morgrants, The Defeaning",
+      "Color": {
+        "X": 0.21176471,
+        "Y": 0.7058824,
+        "Z": 0.7058824,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 486
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/GemlingLegionnaire/GemlingLegionnaire1",
+    "Value": {
+      "DisplayName": "Gemling Legionnaire",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 487
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/GemlingLegionnaire/GemlingLegionnaire2",
+    "Value": {
+      "DisplayName": "Gemling Legionnaire",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 488
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/GemlingLegionnaire/GemlingLegionnaire3",
+    "Value": {
+      "DisplayName": "Gemling Legionnaire",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 489
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/GemlingLegionnaire/GemlingLegionnaire4",
+    "Value": {
+      "DisplayName": "Gemling Legionnaire",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 490
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/GemlingLegionnaire/GemlingLegionnaire5",
+    "Value": {
+      "DisplayName": "Gemling Legionnaire",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 491
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/GemlingLegionnaire/GemlingLegionnaire6",
+    "Value": {
+      "DisplayName": "Gemling Legionnaire",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 492
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/GemlingLegionnaire/GemlingLegionnaire7",
+    "Value": {
+      "DisplayName": "Gemling Legionnaire",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 493
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Revenant/RevenantBoss",
+    "Value": {
+      "DisplayName": "The Bone Queen",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 494
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Revenant/RevenantMapBoss",
+    "Value": {
+      "DisplayName": "Thraxia",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 495
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/DaressoExiles/ExileArenaMarauder",
+    "Value": {
+      "DisplayName": "Gladiator Dimachaeri Cassius",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 496
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/DaressoExiles/ExileArenaWitch",
+    "Value": {
+      "DisplayName": "Gladiator Mevia",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 497
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/DaressoExiles/ExileArenaRanger",
+    "Value": {
+      "DisplayName": "Gladiator Rudiarius Felix",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 498
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/GladiatorBosses/GladiatorBossSupport",
+    "Value": {
+      "DisplayName": "Gladiator Rudiarius Felix",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 499
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/GladiatorBosses/GladiatorBossLeader",
+    "Value": {
+      "DisplayName": "Gladiator Mevion",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 500
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/GladiatorBosses/GladiatorBossElite",
+    "Value": {
+      "DisplayName": "Gladiator Dimachaeri Cassius",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 501
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/GladiatorBosses/GladiatorBossSupportMap",
+    "Value": {
+      "DisplayName": "Avatar of the Huntress",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 502
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/GladiatorBosses/GladiatorBossLeaderMap",
+    "Value": {
+      "DisplayName": "Avatar of the Skies",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 503
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/GladiatorBosses/GladiatorBossEliteMap",
+    "Value": {
+      "DisplayName": "Avatar of the Forge",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 504
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/TempestDaemonSmokeTrail_",
+    "Value": {
+      "DisplayName": "Tempest Daemon",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 505
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/TempestDaemonDevourCorpses",
+    "Value": {
+      "DisplayName": "Tempest Daemon",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 506
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/TempestDaemonCharges",
+    "Value": {
+      "DisplayName": "Tempest Daemon",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 507
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/TempestDaemonEnvironmentalFire",
+    "Value": {
+      "DisplayName": "Tempest Daemon",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 508
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/TempestDaemonEnvironmentalUberFire",
+    "Value": {
+      "DisplayName": "Tempest Daemon",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 509
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/TempestDaemonEnvironmentalCold",
+    "Value": {
+      "DisplayName": "Tempest Daemon",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 510
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/TempestDaemonEnvironmentalUberCold",
+    "Value": {
+      "DisplayName": "Tempest Daemon",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 511
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/TempestDaemonEnvironmentalLightning",
+    "Value": {
+      "DisplayName": "Tempest Daemon",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 512
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/TempestDaemonEnvironmentalUberLightning",
+    "Value": {
+      "DisplayName": "Tempest Daemon",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 513
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/TempestDaemonEnvironmentalNecromancy",
+    "Value": {
+      "DisplayName": "Tempest Daemon",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 514
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/TempestDaemonEnvironmentalUberNecromancy",
+    "Value": {
+      "DisplayName": "Tempest Daemon",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 515
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/TempestDaemonEnvironmentalPhysical",
+    "Value": {
+      "DisplayName": "Tempest Daemon",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 516
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/TempestDaemonEnvironmentalUberPhysical",
+    "Value": {
+      "DisplayName": "Tempest Daemon",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 517
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/TempestDaemonEnvironmentalCurses",
+    "Value": {
+      "DisplayName": "Tempest Daemon",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 518
+    }
+  },
+  {
+    "Key": "Metadata/Monsters/Daemon/TempestDaemonEnvironmentalSmoke",
+    "Value": {
+      "DisplayName": "Tempest Daemon",
+      "Color": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 519
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Missions/CraftingUnlocks/BeastRecipe",
+    "Value": {
+      "DisplayName": "Crafting Recipe",
+      "Color": {
+        "X": 0.5882353,
+        "Y": 0.3019608,
+        "Z": 0.94509804,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 520
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Missions/CraftingUnlocks/Helena",
+    "Value": {
+      "DisplayName": "Crafting Recipe",
+      "Color": {
+        "X": 0.5882353,
+        "Y": 0.3019608,
+        "Z": 0.94509804,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 521
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Missions/CraftingUnlocks/RecipeDecayed",
+    "Value": {
+      "DisplayName": "Crafting Recipe",
+      "Color": {
+        "X": 0.5882353,
+        "Y": 0.3019608,
+        "Z": 0.94509804,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 522
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Missions/CraftingUnlocks/RecipeDelve",
+    "Value": {
+      "DisplayName": "Crafting Recipe",
+      "Color": {
+        "X": 0.5882353,
+        "Y": 0.3019608,
+        "Z": 0.94509804,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 523
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Missions/CraftingUnlocks/RecipeGravestone",
+    "Value": {
+      "DisplayName": "Crafting Recipe",
+      "Color": {
+        "X": 0.5882353,
+        "Y": 0.3019608,
+        "Z": 0.94509804,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 524
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Missions/CraftingUnlocks/RecipeMap",
+    "Value": {
+      "DisplayName": "Crafting Recipe",
+      "Color": {
+        "X": 0.5882353,
+        "Y": 0.3019608,
+        "Z": 0.94509804,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 525
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockBase",
+    "Value": {
+      "DisplayName": "Crafting Recipe",
+      "Color": {
+        "X": 0.5882353,
+        "Y": 0.3019608,
+        "Z": 0.94509804,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 526
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockBeast",
+    "Value": {
+      "DisplayName": "Crafting Recipe",
+      "Color": {
+        "X": 0.5882353,
+        "Y": 0.3019608,
+        "Z": 0.94509804,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 527
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockBoundBook",
+    "Value": {
+      "DisplayName": "Crafting Recipe",
+      "Color": {
+        "X": 0.5882353,
+        "Y": 0.3019608,
+        "Z": 0.94509804,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 528
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockDecayed",
+    "Value": {
+      "DisplayName": "Crafting Recipe",
+      "Color": {
+        "X": 0.5882353,
+        "Y": 0.3019608,
+        "Z": 0.94509804,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 529
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockDelve",
+    "Value": {
+      "DisplayName": "Crafting Recipe",
+      "Color": {
+        "X": 0.5882353,
+        "Y": 0.3019608,
+        "Z": 0.94509804,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 530
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockGoldenBookstand",
+    "Value": {
+      "DisplayName": "Crafting Recipe",
+      "Color": {
+        "X": 0.5882353,
+        "Y": 0.3019608,
+        "Z": 0.94509804,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 531
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockGravestone",
+    "Value": {
+      "DisplayName": "Crafting Recipe",
+      "Color": {
+        "X": 0.5882353,
+        "Y": 0.3019608,
+        "Z": 0.94509804,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 532
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockKaruiPillar",
+    "Value": {
+      "DisplayName": "Crafting Recipe",
+      "Color": {
+        "X": 0.5882353,
+        "Y": 0.3019608,
+        "Z": 0.94509804,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 533
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockLabyrinth",
+    "Value": {
+      "DisplayName": "Crafting Recipe",
+      "Color": {
+        "X": 0.5882353,
+        "Y": 0.3019608,
+        "Z": 0.94509804,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 534
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockMap",
+    "Value": {
+      "DisplayName": "Crafting Recipe",
+      "Color": {
+        "X": 0.5882353,
+        "Y": 0.3019608,
+        "Z": 0.94509804,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 535
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockRunestone",
+    "Value": {
+      "DisplayName": "Crafting Recipe",
+      "Color": {
+        "X": 0.5882353,
+        "Y": 0.3019608,
+        "Z": 0.94509804,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 536
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockTemplarBook",
+    "Value": {
+      "DisplayName": "Crafting Recipe",
+      "Color": {
+        "X": 0.5882353,
+        "Y": 0.3019608,
+        "Z": 0.94509804,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 537
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockTemplarBookNoHelena",
+    "Value": {
+      "DisplayName": "Crafting Recipe",
+      "Color": {
+        "X": 0.5882353,
+        "Y": 0.3019608,
+        "Z": 0.94509804,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 538
+    }
+  },
+  {
+    "Key": "Metadata/Terrain/Missions/CraftingUnlocks/RecipeUnlockVaal",
+    "Value": {
+      "DisplayName": "Crafting Recipe",
+      "Color": {
+        "X": 0.5882353,
+        "Y": 0.3019608,
+        "Z": 0.94509804,
+        "W": 1.0
+      },
+      "LogToDisk": false,
+      "Enabled": true,
+      "Priority": 539
+    }
+  }
+]

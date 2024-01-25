@@ -1,0 +1,54 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+		<AssemblyName></AssemblyName>
+		<GenerateAssemblyInfo>True</GenerateAssemblyInfo>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>netcoreapp7.0-windows</TargetFramework>
+		<PlatformTarget>x64</PlatformTarget>
+		<AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+		<NoWarn>SYSLIB0006,CS8981, CS0219, CA1416, CS0414, CS0169, CS0649</NoWarn>
+		<UseWindowsForms>True</UseWindowsForms>
+		<IsPublishable>False</IsPublishable>
+
+	</PropertyGroup>
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+		<OutputPath>$(SolutionDir)bin\</OutputPath>
+	</PropertyGroup>
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+		<OutputPath>$(SolutionDir)bin\</OutputPath>
+	</PropertyGroup>
+	<ItemGroup>
+	  <Compile Remove="Offsets\**" />
+	  <EmbeddedResource Remove="Offsets\**" />
+	  <None Remove="Offsets\**" />
+	</ItemGroup>
+
+
+	<ItemGroup>
+		<ProjectReference Include="Offsets\GameOffsets.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+		<Reference Include="Coroutine">
+			<HintPath>Coroutine.dll</HintPath>
+		</Reference>
+		<Reference Include="ClickableTransparentOverlay">
+			<HintPath>ClickableTransparentOverlay.dll</HintPath>
+		</Reference>
+		<Reference Include="ImGui.NET">
+			<HintPath>ImGui.NET.dll</HintPath>
+		</Reference>
+		<Reference Include="Newtonsoft.Json">
+			<HintPath>Newtonsoft.Json.dll</HintPath>
+		</Reference>
+		<Reference Include="ProcessMemoryUtilities">
+			<HintPath>ProcessMemoryUtilities.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+	<ItemGroup>
+		<None Update="VERSION.txt">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+</Project>

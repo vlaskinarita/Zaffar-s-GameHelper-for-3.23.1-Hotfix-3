@@ -1,0 +1,44 @@
+===========================================
+occultist_nearby_enemies_chaos_cold_resist_life_regen BuffDefinationPtr: 1127CB2F3A0 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 1 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: 0
+hinder_aura BuffDefinationPtr: 1127CB71EBC Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 1 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: 0
+number_of_nearby_enemies BuffDefinationPtr: 1127CB42DA0 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 1 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: 0
+
+===========================================
+player_aura_resists BuffDefinationPtr: 1127CB0AD02 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 1 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: AEA28403
+occultist_nearby_enemies_chaos_cold_resist_life_regen BuffDefinationPtr: 1127CB2F3A0 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 1 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: 0
+curse_enfeeble BuffDefinationPtr: 1127CB05AD4 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 2 Flask Slot: -1 Effectiveness: 214 (raw: 114) UnknownIdAndEquipmentInfo: 4F98804
+life_regeneration_from_curse BuffDefinationPtr: 1127CB93BA6 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 3 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: 0
+hinder_aura BuffDefinationPtr: 1127CB71EBC Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 1 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: 0
+curse_temporal_chains BuffDefinationPtr: 1127CB0523E Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 2 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: C7C28004
+curse_elemental_weakness BuffDefinationPtr: 1127CB05378 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 2 Flask Slot: -1 Effectiveness: -30881 (raw: -30981) UnknownIdAndEquipmentInfo: D4858404
+cannot_recharge_energy_shield_from_curse BuffDefinationPtr: 1127CB93CE0 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 3 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: 0
+player_aura_speed BuffDefinationPtr: 1127CB0B6D2 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 1 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: C1BA8003
+generic_buff_aura BuffDefinationPtr: 1127CB71C48 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 6 Flask Slot: -1 Effectiveness: 182 (raw: 82) UnknownIdAndEquipmentInfo: 0
+number_of_nearby_enemies BuffDefinationPtr: 1127CB42DA0 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 1 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: 0
+
+===========================================
+player_aura_resists BuffDefinationPtr: 1127CB0AD02 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 1 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: AEA28403
+occultist_nearby_enemies_chaos_cold_resist_life_regen BuffDefinationPtr: 1127CB2F3A0 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 1 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: 0
+curse_enfeeble BuffDefinationPtr: 1127CB05AD4 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 2 Flask Slot: -1 Effectiveness: 214 (raw: 114) UnknownIdAndEquipmentInfo: 4F98804
+life_regeneration_from_curse BuffDefinationPtr: 1127CB93BA6 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 3 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: 0
+hinder_aura BuffDefinationPtr: 1127CB71EBC Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 1 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: 0
+curse_temporal_chains BuffDefinationPtr: 1127CB0523E Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 2 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: C7C28004
+curse_elemental_weakness BuffDefinationPtr: 1127CB05378 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 2 Flask Slot: -1 Effectiveness: -30881 (raw: -30981) UnknownIdAndEquipmentInfo: D4858404
+cannot_recharge_energy_shield_from_curse BuffDefinationPtr: 1127CB93CE0 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 3 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: 0
+player_aura_speed BuffDefinationPtr: 1127CB0B6D2 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 1 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: C1BA8003
+generic_buff_aura BuffDefinationPtr: 1127CB71C48 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 6 Flask Slot: -1 Effectiveness: 182 (raw: 82) UnknownIdAndEquipmentInfo: 0
+number_of_nearby_enemies BuffDefinationPtr: 1127CB42DA0 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 1 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: 0
+
+===========================================
+player_aura_resists BuffDefinationPtr: 1127CB0AD02 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 1 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: AEA28403
+occultist_nearby_enemies_chaos_cold_resist_life_regen BuffDefinationPtr: 1127CB2F3A0 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 1 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: 0
+curse_enfeeble BuffDefinationPtr: 1127CB05AD4 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 2 Flask Slot: -1 Effectiveness: 214 (raw: 114) UnknownIdAndEquipmentInfo: 4F98804
+life_regeneration_from_curse BuffDefinationPtr: 1127CB93BA6 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 3 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: 0
+hinder_aura BuffDefinationPtr: 1127CB71EBC Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 1 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: 0
+curse_temporal_chains BuffDefinationPtr: 1127CB0523E Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 2 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: C7C28004
+curse_elemental_weakness BuffDefinationPtr: 1127CB05378 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 2 Flask Slot: -1 Effectiveness: -30881 (raw: -30981) UnknownIdAndEquipmentInfo: D4858404
+cannot_recharge_energy_shield_from_curse BuffDefinationPtr: 1127CB93CE0 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 3 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: 0
+player_aura_speed BuffDefinationPtr: 1127CB0B6D2 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 1 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: C1BA8003
+generic_buff_aura BuffDefinationPtr: 1127CB71C48 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 6 Flask Slot: -1 Effectiveness: 182 (raw: 82) UnknownIdAndEquipmentInfo: 0
+number_of_nearby_enemies BuffDefinationPtr: 1127CB42DA0 Total Time: ∞ Time Left: ∞ Entity Id: 1329 Charges: 1 Flask Slot: -1 Effectiveness: 100 (raw: 0) UnknownIdAndEquipmentInfo: 0
+

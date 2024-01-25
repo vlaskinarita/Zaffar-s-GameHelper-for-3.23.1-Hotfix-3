@@ -1,0 +1,3641 @@
+{
+  "LargeMapScaleMultiplier": 0.1738,
+  "DrawWhenForeground": true,
+  "DrawWhenNotInHideoutOrTown": true,
+  "HideOutsideNetworkBubble": false,
+  "ModifyCullWindow": false,
+  "MakeCullWindowFullScreen": true,
+  "DrawMapInCull": true,
+  "DrawPOIInCull": true,
+  "DrawWalkableMap": true,
+  "WalkableMapColor": {
+    "X": 0.5882353,
+    "Y": 0.5882353,
+    "Z": 0.5882353,
+    "W": 0.5882353
+  },
+  "CullWindowPos": {
+    "X": 0.0,
+    "Y": 0.0
+  },
+  "CullWindowSize": {
+    "X": 2560.0,
+    "Y": 1440.0
+  },
+  "ShowPlayersNames": false,
+  "POIFrequencyFilter": 0,
+  "ShowImportantPOI": true,
+  "POIColor": {
+    "X": 1.0,
+    "Y": 0.5,
+    "Z": 0.5,
+    "W": 1.0
+  },
+  "EnablePOIBackground": true,
+  "BaseIcons": {
+    "Self": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 20.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Player": {
+      "Clicked": {
+        "X": 2.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 20.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Leader": {
+      "Clicked": {
+        "X": 3.0,
+        "Y": 1.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 20.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "NPC": {
+      "Clicked": {
+        "X": 3.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Special NPC": {
+      "Clicked": {
+        "X": 13.0,
+        "Y": 42.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 100.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Strongbox": {
+      "Clicked": {
+        "X": 8.0,
+        "Y": 38.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Important Strongboxes": {
+      "Clicked": {
+        "X": 6.0,
+        "Y": 41.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 35.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Chests With Label": {
+      "Clicked": {
+        "X": 1.0,
+        "Y": 13.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 20.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Chests Without Label": {
+      "Clicked": {
+        "X": 6.0,
+        "Y": 9.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 20.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Shrine": {
+      "Clicked": {
+        "X": 7.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Friendly": {
+      "Clicked": {
+        "X": 1.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 20.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Normal Monster": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 14.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 20.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Magic Monster": {
+      "Clicked": {
+        "X": 6.0,
+        "Y": 3.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 20.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Rare Monster": {
+      "Clicked": {
+        "X": 5.0,
+        "Y": 4.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 20.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Unique Monster": {
+      "Clicked": {
+        "X": 5.0,
+        "Y": 14.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Pinnacle Boss Not Attackable": {
+      "Clicked": {
+        "X": 5.0,
+        "Y": 15.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Bestiary Monster": {
+      "Clicked": {
+        "X": 5.0,
+        "Y": 2.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Harbinger Monster": {
+      "Clicked": {
+        "X": 1.0,
+        "Y": 36.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Tormented Spirits": {
+      "Clicked": {
+        "X": 12.0,
+        "Y": 14.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Betrayal Enemy NPC": {
+      "Clicked": {
+        "X": 5.0,
+        "Y": 11.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    }
+  },
+  "POIMonsters": {
+    "-1": {
+      "Clicked": {
+        "X": 12.0,
+        "Y": 44.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    }
+  },
+  "AzmeriIcons": {
+    "Sacrifice Altar": {
+      "Clicked": {
+        "X": 8.0,
+        "Y": 40.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 32.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Flask Refill Well": {
+      "Clicked": {
+        "X": 13.0,
+        "Y": 40.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 32.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Experience Gain Shrine": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 15.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 32.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Increase Quantity Shrine": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 15.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 32.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Can Not Be Damage Shrine": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 15.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 50.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Wisp Convertor": {
+      "Clicked": {
+        "X": 12.0,
+        "Y": 11.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 40.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Light Bomb": {
+      "Clicked": {
+        "X": 4.0,
+        "Y": 38.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 40.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Fuel Refill": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 11.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 50.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Purple Wisp Sml": {
+      "Clicked": {
+        "X": 8.0,
+        "Y": 28.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 12.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Blue Wisp Sml": {
+      "Clicked": {
+        "X": 10.0,
+        "Y": 27.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 12.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Yellow Wisp Sml": {
+      "Clicked": {
+        "X": 7.0,
+        "Y": 27.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 12.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Purple Wisp Med": {
+      "Clicked": {
+        "X": 8.0,
+        "Y": 28.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 20.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Blue Wisp Med": {
+      "Clicked": {
+        "X": 10.0,
+        "Y": 27.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 20.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Yellow Wisp Med": {
+      "Clicked": {
+        "X": 7.0,
+        "Y": 27.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 20.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Purple Wisp Big": {
+      "Clicked": {
+        "X": 8.0,
+        "Y": 28.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 34.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Blue Wisp Big": {
+      "Clicked": {
+        "X": 10.0,
+        "Y": 27.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 34.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Yellow Wisp Big": {
+      "Clicked": {
+        "X": 7.0,
+        "Y": 27.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 34.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Unique Trader NPC": {
+      "Clicked": {
+        "X": 13.0,
+        "Y": 42.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 100.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Harvest NPC": {
+      "Clicked": {
+        "X": 9.0,
+        "Y": 40.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 32.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    }
+  },
+  "BreachIcons": {
+    "Breach Chest": {
+      "Clicked": {
+        "X": 6.0,
+        "Y": 41.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    }
+  },
+  "LegionIcons": {
+    "Legion Reward Monster/Chest": {
+      "Clicked": {
+        "X": 4.0,
+        "Y": 41.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Legion Epic Chest": {
+      "Clicked": {
+        "X": 6.0,
+        "Y": 41.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    }
+  },
+  "DeliriumIcons": {
+    "Delirium Bomb": {
+      "Clicked": {
+        "X": 5.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Delirium Spawner": {
+      "Clicked": {
+        "X": 6.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    }
+  },
+  "ExpeditionIcons": {
+    "Generic Expedition Chests": {
+      "Clicked": {
+        "X": 5.0,
+        "Y": 41.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    }
+  },
+  "DelveIcons": {
+    "Blockage OR DelveWall": {
+      "Clicked": {
+        "X": 1.0,
+        "Y": 11.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "AberrantFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "AethericFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "AethericFossilChestDynamite": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "BloodstainedFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "BoundFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "BoundFossilChestDynamite": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "ClothMajorSpider": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "CorrodedFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "CorrodedFossilChestDynamite": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveAzuriteChest1_1": {
+      "Clicked": {
+        "X": 7.0,
+        "Y": 18.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveAzuriteChest1_2": {
+      "Clicked": {
+        "X": 7.0,
+        "Y": 18.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveAzuriteChest1_3": {
+      "Clicked": {
+        "X": 5.0,
+        "Y": 18.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 60.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveAzuriteChest2_1": {
+      "Clicked": {
+        "X": 5.0,
+        "Y": 18.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 60.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveAzuriteVein1_1": {
+      "Clicked": {
+        "X": 7.0,
+        "Y": 18.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveAzuriteVein1_2": {
+      "Clicked": {
+        "X": 7.0,
+        "Y": 18.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveAzuriteVein1_3": {
+      "Clicked": {
+        "X": 5.0,
+        "Y": 18.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 60.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveAzuriteVein2_1": {
+      "Clicked": {
+        "X": 5.0,
+        "Y": 18.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 60.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmour1": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmour2": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmour3": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmour6LinkedUniqueBody": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmourAtlas": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmourBody2AdditionalSockets": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmourCorrupted": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmourDivination": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmourElder": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmourExtraQuality": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmourFullyLinkedBody": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmourLife": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmourMovementSpeed": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmourMultipleResists": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmourMultipleUnique": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmourOfCrafting": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmourShaper": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmourUnique": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestAssortedFossils": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestCurrency1": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestCurrency2": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestCurrency3": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestCurrencyDivination": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestCurrencyHighShards": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestCurrencyMaps": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestCurrencyMaps2": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestCurrencySilverCoins": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestCurrencySockets": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestCurrencySockets2": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestCurrencyVaal": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestCurrencyWisdomScrolls": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGem1": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGem2": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGem3": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGemGCP": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGemHighLevel": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGemHighLevelQuality": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGemHighQuality": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGemLevel4Special": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGeneric1": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGeneric2": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGeneric3": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericAdditionalUnique": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericAdditionalUniques": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericAtziriFragment": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericCurrency": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericDelveUnique": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericDivination": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericElderItem": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericLeagueAbyss": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericLeagueAmbushInvasion": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericLeagueAnarchy": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericLeagueBestiary": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericLeagueBeyond": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericLeagueBloodlines": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericLeagueBreach": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericLeagueDomination": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericLeagueHarbinger": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericLeagueIncursion": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericLeagueLegion": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericLeagueNemesis": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericLeagueOnslaught": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericLeagueRampage": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericLeagueTalisman": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericLeagueTempest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericLeagueTorment": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericLeagueWarbands": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericOffering": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericPaleCourtFragment": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericProphecyItem": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericRandomEnchant": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericRandomEssence": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericShaperItem": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericTrinkets": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestMap1": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestMap2": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestMap3": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestMapChisels": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestMapCorrupted": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestMapElderFragment": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestMapHorizon": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestMapSextants": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestMapShaped": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestMapShaperFragment": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestMapUnique": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialArmourAspect": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialArmourChaos": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialArmourCold": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialArmourFire": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialArmourLightning": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialArmourMana": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialArmourMinion": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialArmourPhysical": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialGenericChaos": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialGenericCold": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialGenericEssence": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialGenericFire": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialGenericLightning": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialGenericMana": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialGenericMinion": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialGenericPhysical": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialTrinketsAbyss": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialTrinketsAbyss2": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialTrinketsAspect": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialTrinketsChaos": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialTrinketsCold": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialTrinketsFire": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialTrinketsLightning": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialTrinketsMana": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialTrinketsMinion": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialTrinketsPhysical": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialTrinketsTalisman": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialUniqueChaos": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialUniqueCold": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialUniqueFire": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialUniqueLightning": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialUniqueMana": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialUniqueMinion": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialUniquePhysical": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialWeaponChaos": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialWeaponCold": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialWeaponFire": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialWeaponLightning": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestSpecialWeaponPhysical": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestTrinkets1": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestTrinkets2": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestTrinkets3": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestTrinketsAmulet": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestTrinketsAtlas": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestTrinketsCorrupted": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestTrinketsDivination": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestTrinketsElder": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestTrinketsEyesOfTheGreatwolf": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestTrinketsJewel": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestTrinketsMultipleUnique": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestTrinketsOfCrafting": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestTrinketsRing": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestTrinketsShaper": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestTrinketsUnique": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestWeapon1": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestWeapon2": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestWeapon3": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestWeapon30QualityUnique": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestWeapon6LinkedTwoHanded": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestWeaponCannotRollAttacker": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestWeaponCannotRollCaster": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestWeaponCaster": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestWeaponCorrupted": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestWeaponDivination": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestWeaponElder": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestWeaponExtraQuality": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestWeaponMultipleUnique": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestWeaponPhysicalDamage": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestWeaponShaper": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestWeaponUnique": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveMiningSupplies1_1": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 11.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 60.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveMiningSupplies1_2": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 11.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 60.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveMiningSupplies2_1": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 11.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 60.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveMiningSuppliesDynamite": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 11.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 60.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveMiningSuppliesDynamite2": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 11.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 60.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveMiningSuppliesFlares1_1": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 11.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 60.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveMiningSuppliesFlares1_2": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 11.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 60.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DenseFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DynamiteArmour": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DynamiteCurrency": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DynamiteCurrency2": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DynamiteCurrency3": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DynamiteGeneric": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DynamiteTrinkets": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DynamiteWeapon": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "EnchantedFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "EnchantedFossilChestDynamite": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "EncrustedFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "FacetedFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "FracturedFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "FrigidFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "GildedFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "GlyphicFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "HollowFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "JaggedFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "LucentFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "MetallicFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "OffPathArmour": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "OffPathCurrency": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "OffPathGeneric": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "OffPathTrinkets": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "OffPathWeapon": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "PathArmour": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "PathCurrency": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "PathGeneric": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "PathTrinkets": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "PathWeapon": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "PerfectFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "PerfectFossilChestDynamite": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "PrismaticFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "PrismaticFossilChestDynamite": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "PristineFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Resonator1": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Resonator2": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Resonator3": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "SanctifiedFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "ScorchedFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "SerratedFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "SerratedFossilChestDynamite": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "ShudderingFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "TangledFossilChest": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "AberrantFossilChestDynamite": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DenseFossilChestDynamite": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "EncrustedFossilChestDynamite": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "FrigidFossilChestDynamite": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "JaggedFossilChestDynamite": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "LucentFossilChestDynamite": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "MetallicFossilChestDynamite": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "PristineFossilChestDynamite": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "ScorchedFossilChestDynamite": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "ShudderingFossilChestDynamite": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmour30QualityUnique": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmourConqueror": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmourFractured": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestArmourSynthesised": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestCurrencyHigh": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestGenericScarab": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestTrinketsConqueror": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestTrinketsFractured": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestTrinketsJewelCluster": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestTrinketsJewelCorrupted": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestTrinketsQuality": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestTrinketsSynthesised": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestWeaponConqueror": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestWeaponFractured": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "DelveChestWeaponSynthesised": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 30.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    }
+  },
+  "AbyssIcons": {
+    "Start": {
+      "Clicked": {
+        "X": 13.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 16.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Crack": {
+      "Clicked": {
+        "X": 0.0,
+        "Y": 1.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 0.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "Mid": {
+      "Clicked": {
+        "X": 13.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 0.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    },
+    "End": {
+      "Clicked": {
+        "X": 13.0,
+        "Y": 0.0
+      },
+      "IconSize": {
+        "X": 64.0,
+        "Y": 64.0
+      },
+      "IconScale": 0.0,
+      "FilePathName": "Plugins\\Radar\\icons.png"
+    }
+  }
+}

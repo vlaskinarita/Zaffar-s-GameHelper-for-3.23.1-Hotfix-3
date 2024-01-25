@@ -1,0 +1,17 @@
+{
+  "AutoHotKeyTrigger": {
+    "Enable": true
+  },
+  "HealthBars": {
+    "Enable": true
+  },
+  "PreloadAlert": {
+    "Enable": true
+  },
+  "Radar": {
+    "Enable": true
+  },
+  "WorldDrawing": {
+    "Enable": true
+  }
+}

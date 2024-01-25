@@ -1,0 +1,13 @@
+{
+  "EnableAutoQuit": false,
+  "AutoQuitCondition": {
+    "conditionSource": "PlayerVitals.HP.Percent <= 30",
+    "component": null
+  },
+  "AutoQuitKey": 122,
+  "Profiles": {},
+  "CurrentProfile": "",
+  "DebugMode": false,
+  "ShouldRunInHideout": true,
+  "DumpStatusEffectOnMe": 121
+}
